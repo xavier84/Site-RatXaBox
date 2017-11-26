@@ -1,0 +1,50 @@
+[
+{
+	"uri": "http://x-gsm.fr/ratxabox/ratxabox/",
+	"title": "Ratxabox",
+	"tags": [],
+	"description": "",
+	"content": " Script d\u0026rsquo;installation ruTorrent / Nginx  Multi-utilisateurs \u0026amp; Multilingue automatique en fonction de l\u0026rsquo;installation du serveur Français, English, German, Pусский, Español, Português Nécessite Debian 7 ou 8 (32\u0026frasl;64 bits) \u0026amp; un serveur fraîchement installé\n Inclus VsFTPd (ftp \u0026amp; ftps sur le port 21), Fail2ban (avec conf nginx, ftp \u0026amp; ssh)\n Seedbox-Manager, Auteurs: Magicalex, Hydrog3n et Backtoback\n  Tiré du tutoriel de Magicalex pour mondedie.fr disponible ici:\nInstaller ruTorrent sur Debian {nginx \u0026amp; php-fpm}\nAide, support \u0026amp; plus si affinités à la même adresse !\nAuteur : Ex_Rat\nMerci Aliochka \u0026amp; Meister pour les conf de munin et VsFTPd\nà Albaret pour le coup de main sur la gestion d\u0026rsquo;users, LetsGo67 pour ses rectifs et\nJedediah pour avoir joué avec le html/css du thème\nAux traducteurs: Sophie, Spectre, Hardware, Zarev, SirGato, MiguelSam\nInstallation: Multilingue automatique\napt-get update \u0026amp;\u0026amp; apt-get upgrade -y apt-get install git-core -y cd /tmp git clone https://github.com/xavier84/RatXaBox ratxabox cd ratxabox chmod a+x bonobox.sh \u0026amp;\u0026amp; ./bonobox.sh  Vous pouvez aussi forcer la langue de votre choix:\n# Français chmod a+x bonobox.sh \u0026amp;\u0026amp; ./bonobox.sh --fr # English chmod a+x bonobox.sh \u0026amp;\u0026amp; ./bonobox.sh --en # Pусский ( \u0026quot;д/H\u0026quot; или \u0026quot;y/n\u0026quot; ) chmod a+x bonobox.sh \u0026amp;\u0026amp; ./bonobox.sh --ru # German chmod a+x bonobox.sh \u0026amp;\u0026amp; ./bonobox.sh --de # Español chmod a+x bonobox.sh \u0026amp;\u0026amp; ./bonobox.sh --es # Português chmod a+x bonobox.sh \u0026amp;\u0026amp; ./bonobox.sh --pt  Pour gérer vos utilisateurs ultérieurement, il vous suffit de relancer le script\nDisclaimer Ce script est proposé à des fins d\u0026rsquo;expérimentation uniquement, le téléchargement d’oeuvre copyrightées est illégal.\nMerci de vous conformer à la législation en vigueur en fonction de vos pays respectifs en faisant vos tests sur des fichiers libres de droits.\nLicense This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License\n"
+},
+{
+	"uri": "http://x-gsm.fr/tuto/ratxabox-mondedie/",
+	"title": "letsenc",
+	"tags": [],
+	"description": "",
+	"content": " Installation de letsenc sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  "
+},
+{
+	"uri": "http://x-gsm.fr/ratxabox/",
+	"title": "installtion",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "http://x-gsm.fr/tuto/",
+	"title": "Tuto",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 2 Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "http://x-gsm.fr/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://x-gsm.fr/",
+	"title": "Ratxabox",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://x-gsm.fr/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

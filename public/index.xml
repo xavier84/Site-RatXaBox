@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ratxabox</title>
+    <title>tuto on Ratxabox</title>
     <link>http://x-gsm.fr/</link>
-    <description>Recent content on Ratxabox</description>
+    <description>Recent content in tuto on Ratxabox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Nov 2017 09:17:16 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2017 09:16:30 +0100</lastBuildDate>
     
 	<atom:link href="http://x-gsm.fr/index.xml" rel="self" type="application/rss+xml" />
     

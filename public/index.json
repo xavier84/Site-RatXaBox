@@ -14,11 +14,18 @@
 	"content": " Installation de letsenc sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  "
 },
 {
-	"uri": "http://x-gsm.fr/ratxabox/",
-	"title": "installtion",
+	"uri": "http://x-gsm.fr/",
+	"title": "tuto",
 	"tags": [],
 	"description": "",
-	"content": " Chapter 1 Some Chapter title Lorem Ipsum.\n"
+	"content": " Chapter 1 Pourquoi faire un tuto hulhuobuiyloyo\n"
+},
+{
+	"uri": "http://x-gsm.fr/ratxabox/",
+	"title": "Installation",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Une seedbox comment ça marche Une seedbox est un outil très prisé sur les trackers torrents puisqu’elle permet aux utilisateurs d’obtenir de gros ratio tout en se protégeant d’HADOPI (lire : VPN ou seedbox). Elles restent relativement floues pour les novices, c’est pourquoi nous allons vous expliquer dans ce tutoriel leur fonctionnement puis dresser une liste des meilleures seedbox. Grâce à NextWarez, place à la seedbox facile !\n"
 },
 {
 	"uri": "http://x-gsm.fr/tuto/",
@@ -30,13 +37,6 @@
 {
 	"uri": "http://x-gsm.fr/categories/",
 	"title": "Categories",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://x-gsm.fr/",
-	"title": "Ratxabox",
 	"tags": [],
 	"description": "",
 	"content": ""

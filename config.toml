@@ -4,7 +4,36 @@ baseurl = "http://x-gsm.fr/"
 # Modifiez le thème pour qu'il soit utilisé par défaut à chaque génération de site.
 theme = "hugo-theme-learn"
 
+[params]
+  editURL = "https://github.com/xavier84/Site-RatXaBox/edit/master/content/"
+  # Autheur du site, est utilisé dans les informations meta
+  author = "Xavier"
+  # Description du site, est utilisé dans les informations meta
+  description = "Documentation for Hugo Learn Theme"
+  # Affiche une icône lorsque la page a été visitée
+  showVisitedLinks = true
+  # Désactive la fonction de recherche. Une valeur à true cache la barre de recherche.
+  disableSearch = false
+  # Par défaut, le cache Javascript et CSS est automatiquement vidé lorsqu'une nouvelle version du site est générée.
+  # Utilisez ce paramètre lorsque vous voulez désactiver ce comportement (c'est parfois incompatible avec certains proxys)
+  disableAssetsBusting = false
+  # Utilisez ce paramètre pour désactiver le bouton copy-to-clipboard pour le code formatté sur une ligne.
+  disableInlineCopyToClipBoard = false
+  # Un titre est défini par défaut lorsque vous utilisez un raccourci dans le menu. Utilisez ce paramètre pour le cacher.
+  disableShortcutsTitle = false
+  # Quand vous utilisez un site multi-langue, utilisez ce paramètre pour désactiver le bouton de changement de langue.
+  disableLanguageSwitchingButton = false
+  # Ordonne les sections dans menu par poids ("weight") ou titre ("title"). Défaut à "weight"
+  ordersectionsby = "weight"
+  # Utilisez ce paramètre pour modifier le schéma de couleur du site. Les valeurs par défaut sont "red", "blue", "green".
+  themeVariant = ""
+
 # Pour la fonctionnalité de recherche
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+[[menu.shortcuts]]
+name = "<i class='fa fa-linux'></i> Mondedie"
+identifier = "mondedie"
+url = "https://mondedie.fr"
+weight = 20

@@ -1,0 +1,499 @@
+# timestamp | duration | file | instruction | dir | modtime | etag | size | fileId | status | errorString | http result code | other size | other modtime | other etag | other fileId | other instruction
+#=#=#=# Syncrun started 2017-11-28T19:35:13
+#=#=#=#=# Propagation starts 2017-11-28T19:35:13 (last step: 214 msec, total: 214 msec)
+18:35:14||archetypes|INST_NEW|Up|1511726219||0|00011330oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:14||content|INST_NEW|Up|1511808084||0|00011331oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:14||data|INST_NEW|Up|1511726219||0|00011332oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:14||layouts|INST_NEW|Up|1511808353||0|00011333oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:14||public|INST_NEW|Up|1511726220||0|00011334oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:15||static|INST_NEW|Up|1511726220||0|00011336oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:14||config.toml|INST_NEW|Up|1511807574|81594d3eb509c30dd4dcfc306e6879de|590|00011335oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:15||content/ratxabox|INST_NEW|Up|1511726219||0|00011338oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:15||content/_index.md|INST_NEW|Up|1511814967|42acafbff2f324e5796775c89d7240ac|159|00011337oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:15||content/tuto|INST_NEW|Up|1511726219||0|00011339oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:15||layouts/partials|INST_NEW|Up|1511809471||0|00011340oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:15||public/basics|INST_NEW|Up|1511726220||0|00011342oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:15||public/404.html|INST_NEW|Up|1511820489|341cd77bcd8fdadb5f137cefade0113a|1711|00011341oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:15||content/ratxabox/Ratxabox.md|INST_NEW|Up|1511726219|ed27fc0c33d4d9112b9e1e653d63dded|2477|00011343oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:15||content/ratxabox/_index.md|INST_NEW|Up|1511807417|4c6db05fd37b7d3ff5f1fc897dcfd7f9|575|00011344oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:15||content/tuto/RatXaBox-mondedie.md|INST_NEW|Up|1511726219|46684349a10dc5e3d64d09b58a5a3d79|728|00011345oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:15||content/tuto/_index.md|INST_NEW|Up|1511726219|1f2faf44011e772dc11dc6bc8132790f|137|00011346oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:16||layouts/partials/logo.html|INST_NEW|Up|1511808274|cab4525ed1aaec6d39f0687de15b5e9c|5953|00011348oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:16||layouts/partials/custom-footer.html|INST_NEW|Up|1511809773|c8e5b1e482152ab6931f65e4e513b28f|786|00011347oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:16||public/basics/ratxabox|INST_NEW|Up|1511726220||0|00011349oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:16||public/css|INST_NEW|Up|1511726224||0|00011351oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:16||public/basics/index.html|INST_NEW|Up|1511726220|53d893b173f95b25a8b7583ac778b679|13841|00011350oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:16||public/fonts|INST_NEW|Up|1511726224||0|00011352oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:16||public/images|INST_NEW|Up|1511726224||0|00011353oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:16||public/index.html|INST_NEW|Up|1511820489|4f330ac1221397d619b554f8ddf71dcf|14290|00011354oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:16||public/basics/ratxabox/index.html|INST_NEW|Up|1511726220|17f74957c06cacc61a739d86f097f3ca|17367|00011355oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:16||public/css/auto-complete.css|INST_NEW|Up|1511726224|2780d9705721818f65f7e03fe0da7ab7|894|00011356oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:16||public/css/featherlight.min.css|INST_NEW|Up|1511726224|3c10f250e8d7321c1bda7ade1d11bd41|1448|00011357oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:16||public/css/hugo-theme.css|INST_NEW|Up|1511726224|76d6438d2772c7eb0901058dda6f64d0|5015|00011358oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:16||public/css/font-awesome.min.css|INST_NEW|Up|1511726224|823720553d78ab7411f19b36e47a5381|31000|00011359oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:17||public/css/hybrid.css|INST_NEW|Up|1511726224|0effb7b4d07a166020551d94b81f65bb|1342|00011360oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:17||public/css/nucleus.css|INST_NEW|Up|1511726224|9c9ec89550d3c7084a758d5028c988e0|11928|00011361oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:17||public/css/perfect-scrollbar.min.css|INST_NEW|Up|1511726224|8745916765b5edf8970bf350ea2a7427|4629|00011362oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:17||public/css/theme-blue.css|INST_NEW|Up|1511726224|f2ca9229b2fdfc6c7fdfe47d72130ddf|3471|00011363oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:17||public/css/theme-green.css|INST_NEW|Up|1511726224|3f03edf41b17621b330e103be84ba0da|3475|00011364oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:17||public/css/theme-red.css|INST_NEW|Up|1511726224|df44e02f7765ce38bf8c81b333417daf|3475|00011365oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:17||public/css/theme.css|INST_NEW|Up|1511726224|cae94583c2c42ff1045fde0756fef119|24545|00011366oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:18||public/fonts/Inconsolata.eot|INST_NEW|Up|1511726223|d55b9f3d363da554b984bdc94f54f292|35620|00011367oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:18||public/fonts/Inconsolata.woff|INST_NEW|Up|1511726223|4d755fe9e1c3ac6429920d78e095fe86|38248|00011368oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:18||public/fonts/Inconsolata.svg|INST_NEW|Up|1511726223|05b0ff71dca7363a88a7cc1178dcc32f|63019|00011369oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:19||public/fonts/Novecentosanswide-Normal-webfont.eot|INST_NEW|Up|1511726223|4e401217aa8e00b8054d15428c0c56b0|22446|00011370oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:18||public/fonts/Inconsolata.ttf|INST_NEW|Up|1511726223|5039462b67f6e05d987b476496f4facb|63184|00011371oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:17||public/fonts/FontAwesome.otf|INST_NEW|Up|1511726223|9441e1af0f93052b7d752bd37de4193f|134808|00011372oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:20||public/fonts/Novecentosanswide-Normal-webfont.woff|INST_NEW|Up|1511726223|d54105e11b724353bd8a29abb4bb0478|24772|00011373oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:20||public/fonts/Novecentosanswide-Normal-webfont.woff2|INST_NEW|Up|1511726223|6957e4de53ee5be3360456abf0bcda3f|19760|00011374oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:20||public/fonts/Novecentosanswide-Normal-webfont.ttf|INST_NEW|Up|1511726223|d9536b0c7612bfd800d4e3702a2856e6|56884|00011375oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:20||public/fonts/Novecentosanswide-UltraLight-webfont.eot|INST_NEW|Up|1511726223|fe7dffa22f5dfacf667aecc7f7786b90|21080|00011376oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:20||public/fonts/Novecentosanswide-Normal-webfont.svg|INST_NEW|Up|1511726223|73855c17eaf465a7b47c7ab6ad12d26b|103303|00011377oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:21||public/fonts/Novecentosanswide-UltraLight-webfont.woff|INST_NEW|Up|1511726223|d7cc9d2c7f8b823c3a4177acda8be090|23476|00011378oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:21||public/fonts/Novecentosanswide-UltraLight-webfont.woff2|INST_NEW|Up|1511726223|3970d1cb578df433c86e1c4c2c19565a|18716|00011379oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:22||public/fonts/Work_Sans_200.eot|INST_NEW|Up|1511726224|1bcd6a60247c9ff5294fde2606600f94|24290|00011380oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:21||public/fonts/Novecentosanswide-UltraLight-webfont.svg|INST_NEW|Up|1511726223|aec95994c7ab059b3643c1cd6ebd781a|96245|00011381oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:22||public/fonts/Work_Sans_200.svg|INST_NEW|Up|1511726223|caa5bb3b96956b1056490292027f8aa5|55881|00011383oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:22||public/fonts/Work_Sans_200.woff|INST_NEW|Up|1511726223|3fcf116f6e84f1aba5ea0a6254d3927d|25896|00011382oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:23||public/fonts/Work_Sans_200.woff2|INST_NEW|Up|1511726223|a094914ae30371cedc0090af7f3f0f6c|21128|00011384oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:22||public/fonts/Work_Sans_200.ttf|INST_NEW|Up|1511726223|357d0c6f34c22d69e936ed1436f9f362|49752|00011385oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:23||public/fonts/Work_Sans_300.eot|INST_NEW|Up|1511726223|1d5fdc6cc44be03867cc2f76a48a4eeb|24817|00011386oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:23||public/fonts/Work_Sans_300.woff|INST_NEW|Up|1511726223|f2410f32ac350c0339fecfdaec7ae593|26392|00011387oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:21||public/fonts/Novecentosanswide-UltraLight-webfont.ttf|INST_NEW|Up|1511726223|42a99e92b89e7564c6950c089d105de3|55600|00011388oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:24||public/fonts/Work_Sans_300.woff2|INST_NEW|Up|1511726223|4aa967ff77a09c2a07f383f77c1909c5|21548|00011389oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:24||public/fonts/Work_Sans_500.eot|INST_NEW|Up|1511726223|98d605b8c5da61c147f5ce390acb7201|26481|00011390oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:23||public/fonts/Work_Sans_300.ttf|INST_NEW|Up|1511726224|137ebef906e456cc2716f1a2f85b2c30|50784|00011391oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:24||public/fonts/Work_Sans_500.svg|INST_NEW|Up|1511726223|3d84eed58e4719852b26904f1686a3f6|55464|00011392oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:25||public/fonts/Work_Sans_500.woff|INST_NEW|Up|1511726223|fd70b6c89685169a5941356666861af0|27900|00011393oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:25||public/fonts/Work_Sans_500.woff2|INST_NEW|Up|1511726223|ad64d015fd7ecf01bae4b527b7eeccb9|22884|00011394oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:23||public/fonts/Work_Sans_300.svg|INST_NEW|Up|1511726223|7c30d5eb7d1ba255c66a5bd4ccb82f37|55829|00011395oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:25||public/fonts/Work_Sans_500.ttf|INST_NEW|Up|1511726223|d4fa6f18a5efb51667bd7a3dffb9c408|54232|00011396oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:25||public/fonts/fontawesome-webfont.eot|INST_NEW|Up|1511726223|799752ec4eb68f587fa300b91d657f50|165742|00011397oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:25||public/fonts/fontawesome-webfont.ttf|INST_NEW|Up|1511726223|12e96a9688baa8270beabf4cbc05ce24|165548|00011398oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:28||public/images/clippy.svg|INST_NEW|Up|1511726224|ca27921518a08211a9144f57a3bdddb3|519|00011399oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:28||public/images/favicon.png|INST_NEW|Up|1511726224|79291c547f398ad824c9ba11230466fa|1253|00011400oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:29||public/index.json|INST_NEW|Up|1511820489|2f17f28b9a4c969b0f479e3946a6c1fb|4139|00011401oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:29||public/index.xml|INST_NEW|Up|1511820489|9695aeb80a6a58caa86c6a55c0607eea|2111|00011402oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:30||public/js|INST_NEW|Up|1511726224||0|00011404oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:28||public/fonts/fontawesome-webfont.woff2|INST_NEW|Up|1511726224|348892d2ada9936a6e1bbb5ffc3e76a2|77160|00011403oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:28||public/fonts/fontawesome-webfont.woff|INST_NEW|Up|1511726223|2720363f77c4e29b2539f910b957224c|98024|00011405oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:30||public/js/auto-complete.js|INST_NEW|Up|1511726224|e89e935eaed3fce3ba480eb329e01a72|10865|00011406oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:30||public/js/clipboard.min.js|INST_NEW|Up|1511726224|c80288815cf44c73369b1662089bda13|8855|00011407oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:31||public/js/featherlight.min.js|INST_NEW|Up|1511726224|b9c578fd833cf57cc8c8456ba8722f55|7257|00011408oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:31||public/js/html5shiv-printshiv.min.js|INST_NEW|Up|1511726224|e1f96f67ba08a740cf952f4d905f98d9|4133|00011409oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:31||public/js/hugo-learn.js|INST_NEW|Up|1511726224|03b9692d7e6a778013565a7a87b35122|2449|00011410oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:31||public/js/highlight.pack.js|INST_NEW|Up|1511726224|4b6eb74ad66a98b79d967b25091c071e|58807|00011411oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:32||public/js/jquery.sticky.js|INST_NEW|Up|1511726224|ae3c21f2167db4b3a6e7620fac01adbc|10085|00011412oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:29||public/images/gopher-404.jpg|INST_NEW|Up|1511726224|1f19397f7abfc04241a36b66ce924e3c|220526|00011413oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:32||public/js/learn.js|INST_NEW|Up|1511726224|6e64c28dceac3c050f88ddc936669559|15174|00011414oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:25||public/fonts/fontawesome-webfont.svg|INST_NEW|Up|1511726224|e3db8ba14b6e2305569587d05f5ecef0|444379|00011415oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:33||public/js/modernizr.custom.71422.js|INST_NEW|Up|1511726224|707efeaa13abdd62813c6c7d7ec2225f|9093|00011416oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:33||public/js/lunr.min.js|INST_NEW|Up|1511726224|eca84dc367d6ebc369b20b06614a88a2|15504|00011418oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:32||public/js/jquery-2.x.min.js|INST_NEW|Up|1511726224|2b926c4bc4dfd3a21c489177a1b9e8bc|85659|00011417oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:33||public/letenc|INST_NEW|Up|1511726220||0|00011419oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:33||public/mermaid|INST_NEW|Up|1511726224||0|00011420oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:33||public/ratxabox|INST_NEW|Up|1511726220||0|00011421oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:33||public/js/search.js|INST_NEW|Up|1511726224|052ef508c21694f4c458dfe07ba3619e|3029|00011422oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:33||public/js/perfect-scrollbar.jquery.min.js|INST_NEW|Up|1511726224|d8c47556e85fb421bb25f67ffdc334b1|25333|00011423oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:33||public/js/perfect-scrollbar.min.js|INST_NEW|Up|1511726224|f9839b836ee877fa7b971e7ede6b3082|25012|00011424oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:34||public/letenc/ratxabox-mondedie|INST_NEW|Up|1511726220||0|00011426oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:34||public/letenc/index.html|INST_NEW|Up|1511726220|8f075a68c5e6f47916e3c51f1d3a5d19|14302|00011425oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:34||public/mermaid/mermaid.dark.css|INST_NEW|Up|1511726224|b4d0023feca43ef9a4e2247667ec88e6|4200|00011428oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:34||public/mermaid/mermaid.css|INST_NEW|Up|1511726224|96977893ed7391a7577a2589ca242e05|3969|00011427oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:34||public/mermaid/mermaid.forest.css|INST_NEW|Up|1511726224|c827c44cb593e78ac828eaf59a4461e2|5208|00011429oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:34||public/ratxabox/ratxabox|INST_NEW|Up|1511726220||0|00011430oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:34||public/sitemap.xml|INST_NEW|Up|1511820489|7154a370583d60347b17184b8ff05f47|909|00011431oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:34||public/letenc/ratxabox-mondedie/index.html|INST_NEW|Up|1511726220|49d57c243dad2dbbaee68a240944e4b1|18424|00011433oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:34||public/ratxabox/index.html|INST_NEW|Up|1511820489|e7438e63c487e423efc8ef30c69398b8|16049|00011432oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:35||public/tuto|INST_NEW|Up|1511726220||0|00011435oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:35||public/ratxabox/ratxabox/index.html|INST_NEW|Up|1511820489|abb731e81bf7ee591d8261101547a5c6|19149|00011434oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:35||themes|INST_NEW|Up|1511726565||0|00011436oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:35||public/tuto/ratxabox-mondedie|INST_NEW|Up|1511726220||0|00011437oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:35||themes/hugo-theme-learn|INST_NEW|Up|1511726579||0|00011438oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:35||public/tuto/index.html|INST_NEW|Up|1511820489|f9fe4d097a362ca9ccdf726fddecca1e|16057|00011439oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:36||themes/hugo-theme-learn/README.md|INST_NEW|Up|1511726221|1873a65d63fe7bbe8cca59489ed117e6|1796|00011440oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:36||themes/hugo-theme-learn/LICENSE.md|INST_NEW|Up|1511726221|0fd8a0395c2d3b8473c91438166f1c3f|1139|00011441oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:36||themes/hugo-theme-learn/archetypes|INST_NEW|Up|1511726223||0|00011443oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:36||public/tuto/ratxabox-mondedie/index.html|INST_NEW|Up|1511820489|d995df66af2a86b9c1100a777fb5ad4a|16764|00011442oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:36||themes/hugo-theme-learn/exampleSite|INST_NEW|Up|1511726222||0|00011444oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:36||themes/hugo-theme-learn/i18n|INST_NEW|Up|1511726222||0|00011445oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:36||themes/hugo-theme-learn/archetypes/chapter.md|INST_NEW|Up|1511726223|8eccaa583c7354514c99253059f0a5df|183|00011446oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:36||themes/hugo-theme-learn/archetypes/default.md|INST_NEW|Up|1511726223|3676bc4298c0fbfcc42a43cb60d4b661|113|00011447oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:36||themes/hugo-theme-learn/exampleSite/LICENSE.md|INST_NEW|Up|1511726221|b3d24e0577b4da0c565cdafb3c3f7497|1081|00011448oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:37||themes/hugo-theme-learn/exampleSite/content|INST_NEW|Up|1511726221||0|00011450oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:37||themes/hugo-theme-learn/exampleSite/config.toml|INST_NEW|Up|1511726221|e19e3cf837e3b7afe7c835f19a1e9942|1754|00011449oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:37||themes/hugo-theme-learn/exampleSite/layouts|INST_NEW|Up|1511726222||0|00011451oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:37||themes/hugo-theme-learn/exampleSite/content/basics|INST_NEW|Up|1511726221||0|00011452oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:37||themes/hugo-theme-learn/exampleSite/content/_index.fr.md|INST_NEW|Up|1511726221|ea1245ce286a1dcd6ab7433d05bf68aa|2628|00011453oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:37||themes/hugo-theme-learn/exampleSite/content/cont|INST_NEW|Up|1511726221||0|00011455oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:37||themes/hugo-theme-learn/exampleSite/content/_index.en.md|INST_NEW|Up|1511726221|2c3e70198f13793ea70732438a4afdba|2424|00011454oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:37||themes/hugo-theme-learn/exampleSite/content/basics/_index.en.md|INST_NEW|Up|1511726221|29bb6383f5c2c0bdccd06eaad19a305b|166|00011456oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:37||themes/hugo-theme-learn/exampleSite/content/basics/configuration|INST_NEW|Up|1511726221||0|00011457oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:38||themes/hugo-theme-learn/exampleSite/content/basics/installation|INST_NEW|Up|1511726221||0|00011458oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:38||themes/hugo-theme-learn/exampleSite/content/basics/_index.fr.md|INST_NEW|Up|1511726221|33bd65c52b224f0009009e184212c3d9|170|00011459oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:38||themes/hugo-theme-learn/exampleSite/content/basics/requirements|INST_NEW|Up|1511726221||0|00011460oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:38||themes/hugo-theme-learn/exampleSite/content/basics/configuration/_index.en.md|INST_NEW|Up|1511726221|f41e50b1c9428e90a87625afb82c9175|2285|00011461oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:38||themes/hugo-theme-learn/exampleSite/content/basics/configuration/_index.fr.md|INST_NEW|Up|1511726221|e0e95edff80eacc101bac2ea3841e4ae|2764|00011462oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:34||public/mermaid/mermaid.js|INST_NEW|Up|1511726224|1ebca612abad6c22b93dc51b66c5e1d0|627810|00011463oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:38||themes/hugo-theme-learn/exampleSite/content/basics/installation/_index.en.md|INST_NEW|Up|1511726221|8c4de3f02e1287dd129785e500c44ea9|3476|00011464oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:38||themes/hugo-theme-learn/exampleSite/content/basics/installation/_index.fr.md|INST_NEW|Up|1511726221|053cd7dd7090fdf7c35a53f1e9ebfc37|3683|00011465oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:38||themes/hugo-theme-learn/exampleSite/content/basics/installation/images|INST_NEW|Up|1511726221||0|00011466oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:38||themes/hugo-theme-learn/exampleSite/content/basics/requirements/images|INST_NEW|Up|1511726221||0|00011467oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:38||themes/hugo-theme-learn/exampleSite/content/basics/requirements/_index.en.md|INST_NEW|Up|1511726221|9651211483261a5da65d31e83bb972bb|368|00011468oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:38||themes/hugo-theme-learn/exampleSite/content/basics/requirements/_index.fr.md|INST_NEW|Up|1511726221|0f6f61227762bf0bbfa428c364b1f12e|419|00011469oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:39||themes/hugo-theme-learn/exampleSite/content/basics/style-customization|INST_NEW|Up|1511726221||0|00011470oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:39||themes/hugo-theme-learn/exampleSite/content/cont/_index.en.md|INST_NEW|Up|1511726221|036b04003d67b3f694113df23d785f69|167|00011471oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:39||themes/hugo-theme-learn/exampleSite/content/cont/_index.fr.md|INST_NEW|Up|1511726221|f015fa3cca005e6bd68cbb98a29d7337|176|00011472oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:39||themes/hugo-theme-learn/exampleSite/content/cont/archetypes.en.md|INST_NEW|Up|1511726221|468b6d703eb1632811b3c5f91ff1cd35|1172|00011473oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:39||themes/hugo-theme-learn/exampleSite/content/basics/style-customization/_index.en.md|INST_NEW|Up|1511726221|dc39c1ab074496444414233b0f07b1cb|6954|00011474oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:40||themes/hugo-theme-learn/exampleSite/content/basics/style-customization/images|INST_NEW|Up|1511726221||0|00011475oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:40||themes/hugo-theme-learn/exampleSite/content/basics/style-customization/_index.fr.md|INST_NEW|Up|1511726221|fc58282aa92477385a0f2a5fad103fde|7208|00011476oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:39||themes/hugo-theme-learn/exampleSite/content/basics/installation/images/chapter.png|INST_NEW|Up|1511726221|b3feb1580eaf45fcb8b24db2e785c055|87764|00011477oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:40||themes/hugo-theme-learn/exampleSite/content/cont/archetypes.fr.md|INST_NEW|Up|1511726221|bd281989f7b1104220c2762dba5d4e3b|1317|00011478oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:40||themes/hugo-theme-learn/exampleSite/content/basics/style-customization/images/blue-variant.png|INST_NEW|Up|1511726221|87aef52f5b04b6aea8fe1dcac7d8b4e5|389127|00011479oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:40||themes/hugo-theme-learn/exampleSite/content/basics/style-customization/images/green-variant.png|INST_NEW|Up|1511726221|6e305deb162095b3320b73d5bf2d7051|390899|00011480oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:46||themes/hugo-theme-learn/exampleSite/content/cont/i18n|INST_NEW|Up|1511726221||0|00011481oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:46||themes/hugo-theme-learn/exampleSite/content/cont/markdown.en.md|INST_NEW|Up|1511726221|2d34e25c62e3fcb88f7cd734a79adefd|16821|00011482oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:47||themes/hugo-theme-learn/exampleSite/content/cont/i18n/_index.en.md|INST_NEW|Up|1511726221|057f8fd92fd20ac641363518562cb71c|2683|00011483oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:47||themes/hugo-theme-learn/exampleSite/content/cont/i18n/_index.fr.md|INST_NEW|Up|1511726221|3804cf60def1bb329cd3fc64dedf73f4|3041|00011484oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:47||themes/hugo-theme-learn/exampleSite/content/cont/i18n/images|INST_NEW|Up|1511726221||0|00011485oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:47||themes/hugo-theme-learn/exampleSite/content/cont/markdown.fr.md|INST_NEW|Up|1511726221|0036a5416e0e2dcc36f5ef5060af2b52|16894|00011486oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:48||themes/hugo-theme-learn/exampleSite/content/cont/i18n/images/i18n-menu.gif|INST_NEW|Up|1511726221|ac71fa7f43de474cf108d6c0c718e5d5|24315|00011487oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:48||themes/hugo-theme-learn/exampleSite/content/cont/menushortcuts.en.md|INST_NEW|Up|1511726221|560f2030a33e2da23d1f3a94d2505486|3357|00011488oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:48||themes/hugo-theme-learn/exampleSite/content/cont/menushortcuts.fr.md|INST_NEW|Up|1511726221|013e07052576c79df7be640c23d4d87a|3548|00011489oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:49||themes/hugo-theme-learn/exampleSite/content/cont/pages|INST_NEW|Up|1511726221||0|00011490oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:49||themes/hugo-theme-learn/exampleSite/content/credits.en.md|INST_NEW|Up|1511726221|3e56b73d537cf486babee1013686c19f|1519|00011491oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:49||themes/hugo-theme-learn/exampleSite/content/cont/pages/_index.en.md|INST_NEW|Up|1511726221|018f3571e700c16dd85fd8f9909dcfb2|6102|00011492oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:49||themes/hugo-theme-learn/exampleSite/content/cont/pages/_index.fr.md|INST_NEW|Up|1511726221|16324f09ec77bffb2a060c8afd5d78ae|6007|00011493oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:49||themes/hugo-theme-learn/exampleSite/content/cont/pages/images|INST_NEW|Up|1511726221||0|00011494oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:50||themes/hugo-theme-learn/exampleSite/content/credits.fr.md|INST_NEW|Up|1511726221|38b046fa1a7e98125d852275024eef06|1515|00011495oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:50||themes/hugo-theme-learn/exampleSite/content/cont/pages/images/frontmatter-icon.png|INST_NEW|Up|1511726221|3f04d274feef7c49e440700df432e714|5811|00011496oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:46||themes/hugo-theme-learn/exampleSite/content/basics/style-customization/images/red-variant.png|INST_NEW|Up|1511726221|8d69edfea1637dee71d26d12447b7ef4|389964|00011497oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:50||themes/hugo-theme-learn/exampleSite/content/cont/pages/images/pages-chapter.png|INST_NEW|Up|1511726221|6020eab0557a3d2eff127ae0898bbd5b|249169|00011498oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:55||themes/hugo-theme-learn/exampleSite/content/shortcodes|INST_NEW|Up|1511726222||0|00011499oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:55||themes/hugo-theme-learn/exampleSite/content/showcase.en.md|INST_NEW|Up|1511726221|87f490a7976908cb2c51bd46a8841cd7|150|00011500oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:55||themes/hugo-theme-learn/exampleSite/content/shortcodes/_index.en.md|INST_NEW|Up|1511726221|cf285f978019f9de9ff03d69980e7f8d|694|00011501oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:55||themes/hugo-theme-learn/exampleSite/content/shortcodes/_index.fr.md|INST_NEW|Up|1511726221|1f107dc7e46ecc9fc52f1da88fc1797b|818|00011502oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:56||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.files|INST_NEW|Up|1511726222||0|00011503oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:56||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.md|INST_NEW|Up|1511726221|cf379c71c5d75444e7f8b2d2b35a368c|2048|00011504oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:52||themes/hugo-theme-learn/exampleSite/content/cont/pages/images/pages-default.png|INST_NEW|Up|1511726221|b8e539a8553ec4bac567e02554f5a4f0|318250|00011505oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:57||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.files/Carroll_AliceAuPaysDesMerveilles.pdf|INST_NEW|Up|1511726222|d2b00ae94c9ddee34a8605e8113ea410|179272|00011506oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:39||themes/hugo-theme-learn/exampleSite/content/basics/requirements/images/magic.gif|INST_NEW|Up|1511726221|741511af087e74834a1dc87d10eda9bc|1458653|00011507oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:00||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.files/hugo.png|INST_NEW|Up|1511726222|658a02e0cbb88cd163ce7905be651b6d|18210|00011508oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:35:56||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.files/BachGavotteShort.mp3|INST_NEW|Up|1511726222|53a7b1ff69931dd2d782eb6deee206b8|366464|00011509oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:02||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.files|INST_NEW|Up|1511726222||0|00011510oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:02||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.md|INST_NEW|Up|1511726221|3de3180cc75696d18b3d75794de6fea5|2288|00011511oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:00||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.files/adivorciarsetoca00cape.pdf|INST_NEW|Up|1511726222|ee1792700fb31c9a5a51b18d3a873eaa|370183|00011512oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:00||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.files/movieselectricsheep-flock-244-32500-2.mp4|INST_NEW|Up|1511726222|ba2ff56a11c6638f0354ab1c904e5e65|348402|00011513oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:02||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.files/BachGavotteShort.mp3|INST_NEW|Up|1511726222|b1c7444b11ce89a8dc1989c8008631d2|366464|00011514oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:08||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.files/hugo.png|INST_NEW|Up|1511726222|35f4e76e16ee13d5faa60102fb169a0a|18210|00011515oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:06||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.files/Carroll_AliceAuPaysDesMerveilles.pdf|INST_NEW|Up|1511726221|e391f70526ca8345eb812c4ec838285c|179272|00011516oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:09||themes/hugo-theme-learn/exampleSite/content/shortcodes/button.en.md|INST_NEW|Up|1511726221|0a309cc4d34a1bdf340be2011c0ebd0f|737|00011517oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:09||themes/hugo-theme-learn/exampleSite/content/shortcodes/button.fr.md|INST_NEW|Up|1511726221|06cf2ae0e3f604cf80f55fd6bb0c0ec6|856|00011518oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:10||themes/hugo-theme-learn/exampleSite/content/shortcodes/children|INST_NEW|Up|1511726222||0|00011519oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:10||themes/hugo-theme-learn/exampleSite/content/shortcodes/expand.en.md|INST_NEW|Up|1511726221|6d7c6cd407a509f9a0da0a746f40fcdd|1961|00011520oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:10||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/_index.en.md|INST_NEW|Up|1511726222|4bab65f2bfac276fa2066cdad80740be|1807|00011521oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:10||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/_index.fr.md|INST_NEW|Up|1511726222|1e6a216c28c8e6bee1025a1d2b4da217|1867|00011522oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:11||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1|INST_NEW|Up|1511726222||0|00011523oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:11||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-2|INST_NEW|Up|1511726222||0|00011524oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:11||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/_index.en.md|INST_NEW|Up|1511726222|46f0b3f31852752b717181bb8c5ff46b|93|00011525oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:06||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.files/adivorciarsetoca00cape.pdf|INST_NEW|Up|1511726222|e4542fc899ba52faf71d411f49c5e0ac|370183|00011526oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:11||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/_index.fr.md|INST_NEW|Up|1511726222|61f53b878dfb45f04c8c35fb171df899|90|00011527oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:11||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1|INST_NEW|Up|1511726222||0|00011528oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:11||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-2/_index.en.md|INST_NEW|Up|1511726222|62773a9e664971a4b87344e60820f1dc|495|00011529oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:08||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.files/movieselectricsheep-flock-244-32500-2.mp4|INST_NEW|Up|1511726222|152c6765a145186ae1cade393d2923e6|348402|00011530oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:12||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-2/_index.fr.md|INST_NEW|Up|1511726222|dd0571eada9127048654c29969039e49|495|00011531oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:12||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-2/test3.en.md|INST_NEW|Up|1511726222|826bdc6867a4cf706b75acaddf852335|99|00011532oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:12||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/_index.en.md|INST_NEW|Up|1511726222|ec356d659a676f9f68835d61bbd4e330|95|00011533oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:12||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-3|INST_NEW|Up|1511726222||0|00011534oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:12||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1|INST_NEW|Up|1511726222||0|00011536oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:12||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/_index.fr.md|INST_NEW|Up|1511726222|55630be59e6d60aae3c9795c174524ce|92|00011535oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:12||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-2/test3.fr.md|INST_NEW|Up|1511726222|e2152d2ba98bee132d702d2e694e682d|102|00011537oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:12||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-4|INST_NEW|Up|1511726222||0|00011538oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:13||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/test.en.md|INST_NEW|Up|1511726222|b441dd13e12506ad05bbd69ede7c0a95|97|00011539oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:13||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-3/_index.en.md|INST_NEW|Up|1511726222|0350f29b415d0b0b2e6df7c7878ace64|120|00011540oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:13||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.en.md|INST_NEW|Up|1511726222|1418938fe0ec6dc9314069da4a9fe6a0|97|00011541oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:13||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.fr.md|INST_NEW|Up|1511726222|1c5e9fa7b84ea5de5b5de2b562534b5b|94|00011542oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:13||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1|INST_NEW|Up|1511726222||0|00011543oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:13||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-3/_index.fr.md|INST_NEW|Up|1511726222|b4ea68de5cff77193cb48f85a80bab3f|90|00011544oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:13||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-4/_index.en.md|INST_NEW|Up|1511726222|8fb07a8318bb902485692bab25a4c967|134|00011545oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:13||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-4/_index.fr.md|INST_NEW|Up|1511726222|58629f4103c0c508a5e305ad9e427534|104|00011546oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:13||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/test.fr.md|INST_NEW|Up|1511726222|a80695572dc0ca5c368d70639eb96996|95|00011548oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:13||themes/hugo-theme-learn/exampleSite/content/shortcodes/expand.fr.md|INST_NEW|Up|1511726221|017a99ab8a16f907a466a1ead3c48a9a|1975|00011547oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:13||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/_index.en.md|INST_NEW|Up|1511726222|790ba546a9e90badc40cb898fe8decdf|99|00011549oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:14||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/_index.fr.md|INST_NEW|Up|1511726222|0e18542235e9360b40ebf28708dda78e|96|00011550oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:14||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1|INST_NEW|Up|1511726222||0|00011552oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:14||themes/hugo-theme-learn/exampleSite/content/shortcodes/mermaid.en.md|INST_NEW|Up|1511726221|269457430ccb72e7e7835674be638270|3175|00011551oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:14||themes/hugo-theme-learn/exampleSite/content/shortcodes/mermaid.fr.md|INST_NEW|Up|1511726221|a5988556983ae827d992cd70024d0889|3249|00011553oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:14||themes/hugo-theme-learn/exampleSite/content/shortcodes/notice.en.md|INST_NEW|Up|1511726221|db2a0797a5f0e525c56102cae7d4ff2e|788|00011554oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:14||themes/hugo-theme-learn/exampleSite/content/shortcodes/notice.fr.md|INST_NEW|Up|1511726221|927f1708c34757118cb077658b882d25|880|00011555oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:14||themes/hugo-theme-learn/exampleSite/content/shortcodes/siteparam.en.md|INST_NEW|Up|1511726221|774b82d3f2cbf0b1f0f68645890f60e7|539|00011556oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:14||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.fr.md|INST_NEW|Up|1511726222|a5341d97cd4dfc466db9fa9969031a77|98|00011558oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:14||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.en.md|INST_NEW|Up|1511726222|b730bdc03e8cbfa73a593bdb9084ae8d|101|00011557oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:15||themes/hugo-theme-learn/exampleSite/content/showcase.fr.md|INST_NEW|Up|1511726221|21f1b2d3ef75d91fa7bda4ae26e94e26|164|00011560oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:14||themes/hugo-theme-learn/exampleSite/content/shortcodes/siteparam.fr.md|INST_NEW|Up|1511726221|de871f7e5bbc0c10cf489720b207fd0a|634|00011559oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:15||themes/hugo-theme-learn/exampleSite/layouts/partials|INST_NEW|Up|1511726222||0|00011561oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:15||themes/hugo-theme-learn/exampleSite/layouts/shortcodes|INST_NEW|Up|1511726222||0|00011562oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:15||themes/hugo-theme-learn/exampleSite/static|INST_NEW|Up|1511726222||0|00011563oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:15||themes/hugo-theme-learn/i18n/en.toml|INST_NEW|Up|1511726222|13389a6308b06f96136680914a5fefc0|395|00011564oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:15||themes/hugo-theme-learn/i18n/es.toml|INST_NEW|Up|1511726222|66881be36f53b2edb998a4594c3bc105|393|00011565oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:15||themes/hugo-theme-learn/i18n/fr.toml|INST_NEW|Up|1511726222|f1a115ae51e08eb1d5968f6de94afeb6|439|00011566oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:15||themes/hugo-theme-learn/exampleSite/layouts/partials/custom-footer.html|INST_NEW|Up|1511726222|5ea8306bebe12bf42af2efbc5a8df7c3|415|00011567oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:15||themes/hugo-theme-learn/exampleSite/layouts/partials/logo.html|INST_NEW|Up|1511726222|a220b3ced919a9197288434278efbc2f|3184|00011568oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:15||themes/hugo-theme-learn/exampleSite/layouts/partials/menu-footer.html|INST_NEW|Up|1511726222|f214da90083fc78703a9d39f08684e41|1165|00011569oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:16||themes/hugo-theme-learn/exampleSite/static/css|INST_NEW|Up|1511726222||0|00011571oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:16||themes/hugo-theme-learn/exampleSite/layouts/shortcodes/ghcontributors.html|INST_NEW|Up|1511726222|3501a252e2601ebd092eda0cabea83c0|701|00011570oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:16||themes/hugo-theme-learn/exampleSite/static/fonts|INST_NEW|Up|1511726222||0|00011572oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:16||themes/hugo-theme-learn/exampleSite/static/images|INST_NEW|Up|1511726222||0|00011573oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:16||themes/hugo-theme-learn/layouts|INST_NEW|Up|1511726222||0|00011575oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:16||themes/hugo-theme-learn/images|INST_NEW|Up|1511726222||0|00011574oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:16||themes/hugo-theme-learn/static|INST_NEW|Up|1511726224||0|00011576oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:16||themes/hugo-theme-learn/exampleSite/static/css/theme-mine.css|INST_NEW|Up|1511726222|3aba4089b7066fdd956c0f2020ea5814|3475|00011577oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:16||themes/hugo-theme-learn/exampleSite/static/fonts/monogramos-webfont.eot|INST_NEW|Up|1511726222|7aec048a2d616c411b22c838d281a774|28654|00011578oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:16||themes/hugo-theme-learn/exampleSite/static/fonts/monogramos-webfont.woff|INST_NEW|Up|1511726222|2a8c73e58274de46315292d700606074|34276|00011579oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:17||themes/hugo-theme-learn/exampleSite/static/fonts/monogramos-webfont.woff2|INST_NEW|Up|1511726222|a2657709d000b543aad7a9ae9f620053|26436|00011580oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:17||themes/hugo-theme-learn/exampleSite/static/images/showcase|INST_NEW|Up|1511726222||0|00011581oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:16||themes/hugo-theme-learn/exampleSite/static/fonts/monogramos-webfont.ttf|INST_NEW|Up|1511726222|531a8914d6d6be15951bf956882de6df|136752|00011582oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:16||themes/hugo-theme-learn/exampleSite/static/fonts/monogramos-webfont.svg|INST_NEW|Up|1511726222|033e3d989ae19be73d62e3e7a31da118|263587|00011583oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:17||themes/hugo-theme-learn/images/screenshot.png|INST_NEW|Up|1511726222|d4c2d1b606d71fab5a115a2230ab8ea1|284162|00011584oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:22||themes/hugo-theme-learn/layouts/_default|INST_NEW|Up|1511726222||0|00011585oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:22||themes/hugo-theme-learn/layouts/404.html|INST_NEW|Up|1511726222|b5a4658676673c976268ab18b35d155a|2346|00011586oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:21||themes/hugo-theme-learn/images/tn.png|INST_NEW|Up|1511726222|a9e311935bcd21ba4da1515afa376919|144767|00011587oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:22||themes/hugo-theme-learn/layouts/_default/list.html|INST_NEW|Up|1511726222|7ce469729e12fe205097e0f00a4f2069|353|00011588oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:23||themes/hugo-theme-learn/layouts/_default/single.html|INST_NEW|Up|1511726222|d458e1bf3955ccd8845079ec04780268|355|00011589oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:23||themes/hugo-theme-learn/layouts/partials|INST_NEW|Up|1511726223||0|00011590oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:23||themes/hugo-theme-learn/layouts/shortcodes|INST_NEW|Up|1511726222||0|00011591oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:23||themes/hugo-theme-learn/layouts/index.html|INST_NEW|Up|1511726222|555999805aefade3d82bfb5b87d185eb|1397|00011592oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:23||themes/hugo-theme-learn/layouts/index.json|INST_NEW|Up|1511726222|196c0f98248d1d9ab6cef3f2338ccf45|428|00011593oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:23||themes/hugo-theme-learn/layouts/partials/custom-comments.html|INST_NEW|Up|1511726222|5eaaa3b7383187149bc3dfaf4dfdcb1a|79|00011594oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:23||themes/hugo-theme-learn/layouts/partials/custom-footer.html|INST_NEW|Up|1511726223|79e9eed7b64214897d0f5a2aa8ff7b3a|181|00011595oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:24||themes/hugo-theme-learn/layouts/partials/custom-header.html|INST_NEW|Up|1511726222|d9e4ad5c4bf88773221414649779a7d6|147|00011596oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:24||themes/hugo-theme-learn/layouts/partials/favicon.html|INST_NEW|Up|1511726223|6fa12c27f6f79a9b391b132885da578d|143|00011597oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:19||themes/hugo-theme-learn/exampleSite/static/images/showcase/tat.png|INST_NEW|Up|1511726222|4a07019c0dc49c6d31e1a5595e9633bc|414931|00011598oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:24||themes/hugo-theme-learn/layouts/partials/footer.html|INST_NEW|Up|1511726222|28d3469d7e19211a19d7774087a466ff|4303|00011599oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:24||themes/hugo-theme-learn/layouts/partials/header.html|INST_NEW|Up|1511726223|c78677cfda9fbe8145cf9f3112e3e810|4433|00011600oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:24||themes/hugo-theme-learn/layouts/partials/logo.html|INST_NEW|Up|1511726223|36bbab28e693fbf44eb28f8dbe6b3a4b|5950|00011601oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:24||themes/hugo-theme-learn/layouts/partials/menu-footer.html|INST_NEW|Up|1511726223|82cc443e5dc6ff2f69513924c1eefbe1|190|00011602oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:24||themes/hugo-theme-learn/layouts/partials/menu.html|INST_NEW|Up|1511726223|14c3b04aa9eab6f2fada96d0a90d5ee5|5562|00011603oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:24||themes/hugo-theme-learn/layouts/partials/meta.html|INST_NEW|Up|1511726223|1003ed45f987f23c6a1d2bbb82ae8db8|215|00011604oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:24||themes/hugo-theme-learn/layouts/partials/search.html|INST_NEW|Up|1511726223|cb06a8b4635b65bf54cee99c05600427|907|00011605oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:24||themes/hugo-theme-learn/layouts/partials/toc.html|INST_NEW|Up|1511726222|930a3eb4f260faa7897c50d0e0aff42d|90|00011606oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:24||themes/hugo-theme-learn/layouts/shortcodes/attachments.html|INST_NEW|Up|1511726222|cfa978d95ee3f26d4414d6927b7011c2|1053|00011607oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:24||themes/hugo-theme-learn/layouts/shortcodes/button.html|INST_NEW|Up|1511726222|1a112cdec66a5d315ff8b8823852a19e|410|00011608oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:25||themes/hugo-theme-learn/layouts/shortcodes/children.html|INST_NEW|Up|1511726222|10bea01609d08d7f56edbda972430c31|4121|00011609oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:25||themes/hugo-theme-learn/layouts/shortcodes/expand.html|INST_NEW|Up|1511726222|ef7bccb5f437bb611dbc2b764f0358ba|684|00011610oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:25||themes/hugo-theme-learn/layouts/shortcodes/mermaid.html|INST_NEW|Up|1511726222|5b613b593d59f1d20c2a4c65e954cade|122|00011611oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:25||themes/hugo-theme-learn/layouts/shortcodes/notice.html|INST_NEW|Up|1511726222|6f35c21cfd98e6d74c544318e3ff7d5c|109|00011612oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:25||themes/hugo-theme-learn/layouts/shortcodes/ref.html|INST_NEW|Up|1511726222|2339480af2942a9e586fd68e4ca7fc6c|431|00011613oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:25||themes/hugo-theme-learn/layouts/shortcodes/relref.html|INST_NEW|Up|1511726222|28569dce55f98d1c7f87ba384abd76c3|431|00011614oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:25||themes/hugo-theme-learn/layouts/shortcodes/siteparam.html|INST_NEW|Up|1511726222|430e7471c53247b9fee30729d69fccd1|190|00011615oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:25||themes/hugo-theme-learn/static/css|INST_NEW|Up|1511726224||0|00011616oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:25||themes/hugo-theme-learn/static/fonts|INST_NEW|Up|1511726224||0|00011617oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:25||themes/hugo-theme-learn/static/images|INST_NEW|Up|1511726224||0|00011618oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:25||themes/hugo-theme-learn/static/js|INST_NEW|Up|1511726224||0|00011619oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:26||themes/hugo-theme-learn/static/mermaid|INST_NEW|Up|1511726224||0|00011620oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:26||themes/hugo-theme-learn/static/css/featherlight.min.css|INST_NEW|Up|1511726224|ad7cafe7f5a4ab98a95ade265776c702|1448|00011621oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:26||themes/hugo-theme-learn/static/css/auto-complete.css|INST_NEW|Up|1511726224|92c9f7c3bc45f93d9555ed47862329aa|894|00011622oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:26||themes/hugo-theme-learn/static/css/font-awesome.min.css|INST_NEW|Up|1511726224|e41a1d03558b8ab699d0ea78eb31b7a5|31000|00011623oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:26||themes/hugo-theme-learn/static/css/hugo-theme.css|INST_NEW|Up|1511726224|7c300b6c97134794f3fbaec82cd14370|5015|00011624oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:26||themes/hugo-theme-learn/static/css/hybrid.css|INST_NEW|Up|1511726224|2d8b004b6fdbbf0edfd13532e1a908a3|1342|00011625oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:26||themes/hugo-theme-learn/static/css/nucleus.css|INST_NEW|Up|1511726224|09a7b68658af5dfb38fec4c31dfd49a3|11928|00011626oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:26||themes/hugo-theme-learn/static/css/theme-blue.css|INST_NEW|Up|1511726224|95b3d36d3e1d3da450082016e270764e|3471|00011627oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:26||themes/hugo-theme-learn/static/css/perfect-scrollbar.min.css|INST_NEW|Up|1511726224|6295b27a58edd645111dd74cfec6a3a5|4629|00011628oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:26||themes/hugo-theme-learn/static/css/theme-green.css|INST_NEW|Up|1511726224|d64570507adcf28173354595f413e39b|3475|00011629oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:26||themes/hugo-theme-learn/static/css/theme-red.css|INST_NEW|Up|1511726224|a0f1fd68ac5e449bac43cdbd2b7263d5|3475|00011630oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:26||themes/hugo-theme-learn/static/css/theme.css|INST_NEW|Up|1511726224|018daa9211ad64527ce2eb070af3ef7b|24545|00011631oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:27||themes/hugo-theme-learn/static/fonts/Inconsolata.woff|INST_NEW|Up|1511726223|d22cf4324782e386fa3d32b68c6ff492|38248|00011632oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:27||themes/hugo-theme-learn/static/fonts/Inconsolata.svg|INST_NEW|Up|1511726223|ebf3ebd4ced93fb17ab228cd6ce00835|63019|00011633oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:27||themes/hugo-theme-learn/static/fonts/Inconsolata.ttf|INST_NEW|Up|1511726223|c0f1074c756a922e825aef1b24428e66|63184|00011634oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:27||themes/hugo-theme-learn/static/fonts/Inconsolata.eot|INST_NEW|Up|1511726223|586f2548da206b7a43ad0c63c8a5ee52|35620|00011635oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:28||themes/hugo-theme-learn/static/fonts/Novecentosanswide-Normal-webfont.eot|INST_NEW|Up|1511726223|035f658b9b9bea9b6240b9f3b402654a|22446|00011636oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:29||themes/hugo-theme-learn/static/fonts/Novecentosanswide-Normal-webfont.woff|INST_NEW|Up|1511726223|d105a9f51725bbd7fe6a838014f80d0e|24772|00011637oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:28||themes/hugo-theme-learn/static/fonts/Novecentosanswide-Normal-webfont.ttf|INST_NEW|Up|1511726223|3895af84c818bf3ca699e8ebe98e5b8e|56884|00011638oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:27||themes/hugo-theme-learn/static/fonts/FontAwesome.otf|INST_NEW|Up|1511726223|321bbb455dfdb90ab93affe3fb6249f3|134808|00011639oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:28||themes/hugo-theme-learn/static/fonts/Novecentosanswide-Normal-webfont.svg|INST_NEW|Up|1511726223|23c63bdaf6cb718383d3714129b846a1|103303|00011641oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:30||themes/hugo-theme-learn/static/fonts/Novecentosanswide-Normal-webfont.woff2|INST_NEW|Up|1511726223|a666f5af8acaddac9de4b8bc4755a84d|19760|00011640oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:30||themes/hugo-theme-learn/static/fonts/Novecentosanswide-UltraLight-webfont.eot|INST_NEW|Up|1511726223|a30adadc4134349fab96e7fca85559fa|21080|00011642oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:30||themes/hugo-theme-learn/static/fonts/Novecentosanswide-UltraLight-webfont.ttf|INST_NEW|Up|1511726223|e7c92d2c9cd905e1ae7cb8c4950e2afb|55600|00011643oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:31||themes/hugo-theme-learn/static/fonts/Work_Sans_200.svg|INST_NEW|Up|1511726223|10e0e31097295f7fcd49fe96caf25b0e|55881|00011644oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:30||themes/hugo-theme-learn/static/fonts/Novecentosanswide-UltraLight-webfont.woff2|INST_NEW|Up|1511726223|6e335bdc1fe5513255e3b2317b24706a|18716|00011645oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:30||themes/hugo-theme-learn/static/fonts/Novecentosanswide-UltraLight-webfont.svg|INST_NEW|Up|1511726223|dd6eb3f6182dd9b19815afdc36fc06cd|96245|00011646oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:31||themes/hugo-theme-learn/static/fonts/Work_Sans_200.ttf|INST_NEW|Up|1511726223|e201a47aec1b0929187a6646b6e250f3|49752|00011647oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:30||themes/hugo-theme-learn/static/fonts/Work_Sans_200.eot|INST_NEW|Up|1511726224|eb7c90025ac2fe7836c0168f64944d29|24290|00011649oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:32||themes/hugo-theme-learn/static/fonts/Work_Sans_200.woff|INST_NEW|Up|1511726223|84651d961bc4499aa937b0d1580baab4|25896|00011648oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:30||themes/hugo-theme-learn/static/fonts/Novecentosanswide-UltraLight-webfont.woff|INST_NEW|Up|1511726223|f8e6774d3436394370df578c12f41b05|23476|00011650oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:32||themes/hugo-theme-learn/static/fonts/Work_Sans_300.eot|INST_NEW|Up|1511726223|f10171ee2a499357751d43b5c27c3ffc|24817|00011652oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:32||themes/hugo-theme-learn/static/fonts/Work_Sans_200.woff2|INST_NEW|Up|1511726223|f37b1f230070630f5f6675673a50fa55|21128|00011651oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:33||themes/hugo-theme-learn/static/fonts/Work_Sans_300.woff2|INST_NEW|Up|1511726223|bb552693c429dd8e752ca48b5fb386f5|21548|00011653oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:32||themes/hugo-theme-learn/static/fonts/Work_Sans_300.woff|INST_NEW|Up|1511726223|97e396a973c4189deb3cec827c375774|26392|00011654oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:33||themes/hugo-theme-learn/static/fonts/Work_Sans_500.eot|INST_NEW|Up|1511726223|4e4cba89b7c03022dd786beee84e2e82|26481|00011655oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:32||themes/hugo-theme-learn/static/fonts/Work_Sans_300.ttf|INST_NEW|Up|1511726224|47d05cf42243fecfea8530008fe275f1|50784|00011656oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:32||themes/hugo-theme-learn/static/fonts/Work_Sans_300.svg|INST_NEW|Up|1511726223|47ef0c42319dd34db6ceeab0ac3e41e7|55829|00011657oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:33||themes/hugo-theme-learn/static/fonts/Work_Sans_500.woff|INST_NEW|Up|1511726223|ce250110ac9d95fe80265b7c971f00ff|27900|00011658oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:33||themes/hugo-theme-learn/static/fonts/Work_Sans_500.svg|INST_NEW|Up|1511726223|cc1ab701ffcd4cc8587befa786d85776|55464|00011659oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:34||themes/hugo-theme-learn/static/fonts/Work_Sans_500.woff2|INST_NEW|Up|1511726223|1b8d1ff474e6b63988282e5bba8085a4|22884|00011660oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:33||themes/hugo-theme-learn/static/fonts/Work_Sans_500.ttf|INST_NEW|Up|1511726223|103399c287b0a6e1ffaacdab5e04668f|54232|00011661oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:34||themes/hugo-theme-learn/static/fonts/fontawesome-webfont.eot|INST_NEW|Up|1511726223|8701379b4444db98aa543b34da8fdc7c|165742|00011662oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:34||themes/hugo-theme-learn/static/fonts/fontawesome-webfont.ttf|INST_NEW|Up|1511726223|3d009541340e98c47482aae6b5172d87|165548|00011663oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:37||themes/hugo-theme-learn/static/images/clippy.svg|INST_NEW|Up|1511726224|f0653efe0a15e35ec376a61b611308ce|519|00011664oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:37||themes/hugo-theme-learn/static/images/favicon.png|INST_NEW|Up|1511726224|21bf7e2b0cf1a540bd175a75ec26cdd1|1253|00011665oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:38||themes/hugo-theme-learn/static/js/auto-complete.js|INST_NEW|Up|1511726224|bc9a5394d58642d0fe42c0addfff2dc9|10865|00011666oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:37||themes/hugo-theme-learn/static/fonts/fontawesome-webfont.woff2|INST_NEW|Up|1511726224|18a07ac7cecb1108e31c772c4fe1479a|77160|00011667oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:39||themes/hugo-theme-learn/static/js/clipboard.min.js|INST_NEW|Up|1511726224|4273376dd0442af2021e3dff05aa6291|8855|00011668oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:37||themes/hugo-theme-learn/static/fonts/fontawesome-webfont.woff|INST_NEW|Up|1511726223|8f32530768578161e5caceeea36f8b59|98024|00011669oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:39||themes/hugo-theme-learn/static/js/featherlight.min.js|INST_NEW|Up|1511726224|887774bd080934c35ba2a3c87325e1dc|7257|00011670oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:40||themes/hugo-theme-learn/static/js/html5shiv-printshiv.min.js|INST_NEW|Up|1511726224|de22e08d44606c54d59816463e272472|4133|00011671oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:40||themes/hugo-theme-learn/static/js/hugo-learn.js|INST_NEW|Up|1511726224|eef2dd7205e524fa6db88e77b059fd55|2449|00011672oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:39||themes/hugo-theme-learn/static/js/highlight.pack.js|INST_NEW|Up|1511726224|3fa933cc10e5014b269ef52b15cd45a4|58807|00011673oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:41||themes/hugo-theme-learn/static/js/jquery.sticky.js|INST_NEW|Up|1511726224|8872861dbbb19699c3ac3fa2f21cfa43|10085|00011674oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:41||themes/hugo-theme-learn/static/js/learn.js|INST_NEW|Up|1511726224|c153198526d30d365ff0da0f14cd03a6|15174|00011675oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:38||themes/hugo-theme-learn/static/images/gopher-404.jpg|INST_NEW|Up|1511726224|9c00e60e02a1634800d715371da170f7|220526|00011676oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:34||themes/hugo-theme-learn/static/fonts/fontawesome-webfont.svg|INST_NEW|Up|1511726224|b822778e81b92acf21919e2b4ed8c229|444379|00011677oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:40||themes/hugo-theme-learn/static/js/jquery-2.x.min.js|INST_NEW|Up|1511726224|a9a4c2b01ea2eae6f0b296d23065af75|85659|00011678oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:42||themes/hugo-theme-learn/static/js/lunr.min.js|INST_NEW|Up|1511726224|027de49a139f5ad093cb39ed316e5f57|15504|00011679oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:42||themes/hugo-theme-learn/static/js/modernizr.custom.71422.js|INST_NEW|Up|1511726224|33e4d9462b46d1f8bc87810dfe2ccebb|9093|00011680oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:42||themes/hugo-theme-learn/static/js/search.js|INST_NEW|Up|1511726224|487f9f8b9c95c4b24fe7029c111aaaf1|3029|00011681oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:42||themes/hugo-theme-learn/static/mermaid/mermaid.css|INST_NEW|Up|1511726224|f08afeddc6b219e930b99a249629eb7b|3969|00011682oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:42||themes/hugo-theme-learn/static/mermaid/mermaid.dark.css|INST_NEW|Up|1511726224|08fda25e9f074872b0cac925fa8af475|4200|00011683oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:42||themes/hugo-theme-learn/static/js/perfect-scrollbar.jquery.min.js|INST_NEW|Up|1511726224|6d266ef91becb64cc5c532b72aa09ee8|25333|00011684oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:42||themes/hugo-theme-learn/static/js/perfect-scrollbar.min.js|INST_NEW|Up|1511726224|40fc34c1d3712f6967bf50ea0a897642|25012|00011685oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:43||themes/hugo-theme-learn/static/mermaid/mermaid.forest.css|INST_NEW|Up|1511726224|2633ec3acde9b0b4cb930ee160248973|5208|00011686oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:43||themes/hugo-theme-learn/theme.toml|INST_NEW|Up|1511726221|fc9e3a7392e3a4247716ec9f0ddf680e|768|00011687oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:43||themes/hugo-theme-learn/wercker.yml|INST_NEW|Up|1511726221|e2503a23e3de0ed562bdc581ea192292|387|00011688oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+18:36:43||themes/hugo-theme-learn/static/mermaid/mermaid.js|INST_NEW|Up|1511726224|2e2d79867f5f1668bca31c8b7ced4901|627810|00011689oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T19:36:45 (last step: 92210 msec, total: 92424 msec)
+#=#=#=# Syncrun started 2017-11-28T19:37:02
+#=#=#=#=# Propagation starts 2017-11-28T19:37:11 (last step: 8776 msec, total: 8776 msec)
+#=#=#=# Syncrun finished 2017-11-28T19:37:11 (last step: 38 msec, total: 8814 msec)
+#=#=#=# Syncrun started 2017-11-28T19:38:03
+#=#=#=#=# Propagation starts 2017-11-28T19:38:03 (last step: 235 msec, total: 235 msec)
+#=#=#=# Syncrun finished 2017-11-28T19:38:03 (last step: 19 msec, total: 254 msec)
+#=#=#=# Syncrun started 2017-11-28T19:50:08
+#=#=#=#=# Propagation starts 2017-11-28T19:50:08 (last step: 226 msec, total: 226 msec)
+18:50:09||config.toml|INST_SYNC|Up|1511895006|e504835830149a9105cee917b55af5b2|2313|00011335oc03gg1yp8mc|4||204|590|1511807574|81594d3eb509c30dd4dcfc306e6879de|00011335oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T19:50:08 (last step: 458 msec, total: 685 msec)
+#=#=#=# Syncrun started 2017-11-28T19:50:41
+#=#=#=#=# Propagation starts 2017-11-28T19:50:42 (last step: 302 msec, total: 302 msec)
+18:50:43||config.toml|INST_SYNC|Up|1511895039|3cbcca8deb4943135c558c43c74fefcb|2319|00011335oc03gg1yp8mc|4||204|2313|1511895006|e504835830149a9105cee917b55af5b2|00011335oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T19:50:42 (last step: 407 msec, total: 710 msec)
+#=#=#=# Syncrun started 2017-11-28T19:51:33
+#=#=#=#=# Propagation starts 2017-11-28T19:51:33 (last step: 214 msec, total: 214 msec)
+#=#=#=# Syncrun finished 2017-11-28T19:51:33 (last step: 23 msec, total: 238 msec)
+#=#=#=# Syncrun started 2017-11-28T19:52:19
+#=#=#=#=# Propagation starts 2017-11-28T19:52:19 (last step: 245 msec, total: 245 msec)
+18:52:20||config.toml|INST_SYNC|Up|1511895137|229796316b124c03ff824b446ba2f00f|2124|00011335oc03gg1yp8mc|4||204|2319|1511895039|3cbcca8deb4943135c558c43c74fefcb|00011335oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T19:52:20 (last step: 394 msec, total: 639 msec)
+#=#=#=# Syncrun started 2017-11-28T19:52:35
+#=#=#=#=# Propagation starts 2017-11-28T19:52:35 (last step: 219 msec, total: 219 msec)
+18:52:36||config.toml|INST_SYNC|Up|1511895153|cef8be39ac6dcc9cb5f768a625d0cd1c|1939|00011335oc03gg1yp8mc|4||204|2124|1511895137|229796316b124c03ff824b446ba2f00f|00011335oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T19:52:35 (last step: 395 msec, total: 614 msec)
+#=#=#=# Syncrun started 2017-11-28T19:53:12
+#=#=#=#=# Propagation starts 2017-11-28T19:53:13 (last step: 299 msec, total: 299 msec)
+18:53:13||config.toml|INST_SYNC|Up|1511895190|f6c4fdc6ea880706ab9a00ae9284e5ae|1900|00011335oc03gg1yp8mc|4||204|1939|1511895153|cef8be39ac6dcc9cb5f768a625d0cd1c|00011335oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T19:53:13 (last step: 377 msec, total: 676 msec)
+#=#=#=# Syncrun started 2017-11-28T19:53:54
+#=#=#=#=# Propagation starts 2017-11-28T19:53:54 (last step: 283 msec, total: 283 msec)
+18:53:55||config.toml|INST_SYNC|Up|1511895232|4c8c4d2b86f72aaa8119be9270e432c4|1899|00011335oc03gg1yp8mc|4||204|1900|1511895190|f6c4fdc6ea880706ab9a00ae9284e5ae|00011335oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T19:53:54 (last step: 373 msec, total: 656 msec)
+#=#=#=# Syncrun started 2017-11-28T19:54:08
+#=#=#=#=# Propagation starts 2017-11-28T19:54:08 (last step: 295 msec, total: 295 msec)
+18:54:09||config.toml|INST_SYNC|Up|1511895246|b5f959fe50f9639a7e85ac90b453b692|1900|00011335oc03gg1yp8mc|4||204|1899|1511895232|4c8c4d2b86f72aaa8119be9270e432c4|00011335oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T19:54:08 (last step: 414 msec, total: 710 msec)
+#=#=#=# Syncrun started 2017-11-28T19:55:03
+#=#=#=#=# Propagation starts 2017-11-28T19:55:03 (last step: 243 msec, total: 243 msec)
+#=#=#=# Syncrun finished 2017-11-28T19:55:03 (last step: 24 msec, total: 268 msec)
+#=#=#=# Syncrun started 2017-11-28T19:55:23
+#=#=#=#=# Propagation starts 2017-11-28T19:55:23 (last step: 232 msec, total: 232 msec)
+18:55:24||config.toml|INST_SYNC|Up|1511895321|ff2b7c88d4e651dd6c5410e956c3fed4|1900|00011335oc03gg1yp8mc|4||204|1900|1511895246|b5f959fe50f9639a7e85ac90b453b692|00011335oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T19:55:23 (last step: 399 msec, total: 632 msec)
+#=#=#=# Syncrun started 2017-11-28T19:56:03
+#=#=#=#=# Propagation starts 2017-11-28T19:56:03 (last step: 246 msec, total: 246 msec)
+#=#=#=# Syncrun finished 2017-11-28T19:56:03 (last step: 33 msec, total: 279 msec)
+#=#=#=# Syncrun started 2017-11-28T19:58:45
+#=#=#=#=# Propagation starts 2017-11-28T19:58:45 (last step: 259 msec, total: 259 msec)
+18:58:46||config.toml|INST_SYNC|Up|1511895523|ba269052a3e7806efb69937256d0f8cf|1899|00011335oc03gg1yp8mc|4||204|1900|1511895321|ff2b7c88d4e651dd6c5410e956c3fed4|00011335oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T19:58:46 (last step: 380 msec, total: 639 msec)
+#=#=#=# Syncrun started 2017-11-28T19:59:33
+#=#=#=#=# Propagation starts 2017-11-28T19:59:33 (last step: 250 msec, total: 250 msec)
+#=#=#=# Syncrun finished 2017-11-28T19:59:33 (last step: 31 msec, total: 282 msec)
+#=#=#=# Syncrun started 2017-11-28T20:00:44
+#=#=#=#=# Propagation starts 2017-11-28T20:00:44 (last step: 281 msec, total: 281 msec)
+19:00:45||config.toml|INST_SYNC|Up|1511895642|49ba08b479c3ff3361fcd27242e7b8b0|1898|00011335oc03gg1yp8mc|4||204|1899|1511895523|ba269052a3e7806efb69937256d0f8cf|00011335oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T20:00:44 (last step: 394 msec, total: 675 msec)
+#=#=#=# Syncrun started 2017-11-28T20:01:33
+#=#=#=#=# Propagation starts 2017-11-28T20:01:33 (last step: 228 msec, total: 228 msec)
+#=#=#=# Syncrun finished 2017-11-28T20:01:33 (last step: 21 msec, total: 249 msec)
+#=#=#=# Syncrun started 2017-11-28T20:03:18
+#=#=#=#=# Propagation starts 2017-11-28T20:03:18 (last step: 310 msec, total: 310 msec)
+19:03:19||public/404.html|INST_SYNC|Up|1511895796|dacee2287b684b78d90f4ef3f47c37d5|1711|00011341oc03gg1yp8mc|4||204|1711|1511820489|341cd77bcd8fdadb5f137cefade0113a|00011341oc03gg1yp8mc|INST_NONE|
+19:03:19||public/index.json|INST_SYNC|Up|1511895796|a5c119d19fd7646001ab1f3478f6f1a9|4139|00011401oc03gg1yp8mc|4||204|4139|1511820489|2f17f28b9a4c969b0f479e3946a6c1fb|00011401oc03gg1yp8mc|INST_NONE|
+19:03:19||public/index.xml|INST_SYNC|Up|1511895796|88d05986f360d7f971ef7416df08b350|2111|00011402oc03gg1yp8mc|4||204|2111|1511820489|9695aeb80a6a58caa86c6a55c0607eea|00011402oc03gg1yp8mc|INST_NONE|
+19:03:19||public/index.html|INST_SYNC|Up|1511895796|353d1ba4defbd9c664a69178a0b14e9c|14289|00011354oc03gg1yp8mc|4||204|14290|1511820489|4f330ac1221397d619b554f8ddf71dcf|00011354oc03gg1yp8mc|INST_NONE|
+19:03:19||public/ratxabox/index.html|INST_SYNC|Up|1511895796|3cc3dcd31f39ced8e286f47913dee36f|16048|00011432oc03gg1yp8mc|4||204|16049|1511820489|e7438e63c487e423efc8ef30c69398b8|00011432oc03gg1yp8mc|INST_NONE|
+19:03:19||public/sitemap.xml|INST_SYNC|Up|1511895796|7fa533623187beb03c7088fcf2270b66|909|00011431oc03gg1yp8mc|4||204|909|1511820489|7154a370583d60347b17184b8ff05f47|00011431oc03gg1yp8mc|INST_NONE|
+19:03:19||public/ratxabox/ratxabox/index.html|INST_SYNC|Up|1511895796|5b3537ed23ce5226c16e50bf844b439d|19148|00011434oc03gg1yp8mc|4||204|19149|1511820489|abb731e81bf7ee591d8261101547a5c6|00011434oc03gg1yp8mc|INST_NONE|
+19:03:19||public/tuto/index.html|INST_SYNC|Up|1511895796|09de4b51a8a69e1a952d23b5f400288e|16056|00011439oc03gg1yp8mc|4||204|16057|1511820489|f9fe4d097a362ca9ccdf726fddecca1e|00011439oc03gg1yp8mc|INST_NONE|
+19:03:19||public/tuto/ratxabox-mondedie/index.html|INST_SYNC|Up|1511895796|c88017df629872b44d2df06f24e6178a|16763|00011442oc03gg1yp8mc|4||204|16764|1511820489|d995df66af2a86b9c1100a777fb5ad4a|00011442oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T20:03:20 (last step: 1761 msec, total: 2072 msec)
+#=#=#=# Syncrun started 2017-11-28T20:04:03
+#=#=#=#=# Propagation starts 2017-11-28T20:04:03 (last step: 814 msec, total: 814 msec)
+#=#=#=# Syncrun finished 2017-11-28T20:04:03 (last step: 28 msec, total: 843 msec)
+#=#=#=# Syncrun started 2017-11-28T20:10:08
+#=#=#=#=# Propagation starts 2017-11-28T20:10:09 (last step: 253 msec, total: 253 msec)
+19:10:10||public/404.html|INST_SYNC|Up|1511896206|1407d5eeafc52b2ca2509c40473b934a|1711|00011341oc03gg1yp8mc|4||204|1711|1511895796|dacee2287b684b78d90f4ef3f47c37d5|00011341oc03gg1yp8mc|INST_NONE|
+19:10:10||public/index.json|INST_SYNC|Up|1511896206|c2adb4925ededc921583ed05abd85de7|4139|00011401oc03gg1yp8mc|4||204|4139|1511895796|a5c119d19fd7646001ab1f3478f6f1a9|00011401oc03gg1yp8mc|INST_NONE|
+19:10:10||public/index.xml|INST_SYNC|Up|1511896206|31de2fbbcc28c33f9602910fb61bf3c8|2111|00011402oc03gg1yp8mc|4||204|2111|1511895796|88d05986f360d7f971ef7416df08b350|00011402oc03gg1yp8mc|INST_NONE|
+19:10:10||public/index.html|INST_SYNC|Up|1511896206|b8114746f4b524a8c908f15b1073a111|14289|00011354oc03gg1yp8mc|4||204|14289|1511895796|353d1ba4defbd9c664a69178a0b14e9c|00011354oc03gg1yp8mc|INST_NONE|
+19:10:10||public/ratxabox/index.html|INST_SYNC|Up|1511896206|01bf375c7c52956fae1e9f9d618d2ae1|16048|00011432oc03gg1yp8mc|4||204|16048|1511895796|3cc3dcd31f39ced8e286f47913dee36f|00011432oc03gg1yp8mc|INST_NONE|
+19:10:10||public/sitemap.xml|INST_SYNC|Up|1511896206|ac51a34ff364fca69a1891067b6091b0|909|00011431oc03gg1yp8mc|4||204|909|1511895796|7fa533623187beb03c7088fcf2270b66|00011431oc03gg1yp8mc|INST_NONE|
+19:10:10||public/ratxabox/ratxabox/index.html|INST_SYNC|Up|1511896206|e8d947b9d174078125bfaf0fcbe6803a|19148|00011434oc03gg1yp8mc|4||204|19148|1511895796|5b3537ed23ce5226c16e50bf844b439d|00011434oc03gg1yp8mc|INST_NONE|
+19:10:10||public/tuto/index.html|INST_SYNC|Up|1511896206|63dbeaf277649bbc2c65b6ecead337b8|16056|00011439oc03gg1yp8mc|4||204|16056|1511895796|09de4b51a8a69e1a952d23b5f400288e|00011439oc03gg1yp8mc|INST_NONE|
+19:10:10||public/tuto/ratxabox-mondedie/index.html|INST_SYNC|Up|1511896206|dbfbcbaeac22b452c8de22c29a5b7bea|16763|00011442oc03gg1yp8mc|4||204|16763|1511895796|c88017df629872b44d2df06f24e6178a|00011442oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T20:10:10 (last step: 1459 msec, total: 1712 msec)
+#=#=#=# Syncrun started 2017-11-28T20:11:03
+#=#=#=#=# Propagation starts 2017-11-28T20:11:03 (last step: 841 msec, total: 841 msec)
+#=#=#=# Syncrun finished 2017-11-28T20:11:03 (last step: 34 msec, total: 876 msec)
+#=#=#=# Syncrun started 2017-11-28T20:16:11
+#=#=#=#=# Propagation starts 2017-11-28T20:16:11 (last step: 297 msec, total: 297 msec)
+19:16:12||config.toml|INST_SYNC|Up|1511896569|bdf8a9a0afa6adc3b21fa7b575ceef43|1896|00011335oc03gg1yp8mc|4||204|1898|1511895642|49ba08b479c3ff3361fcd27242e7b8b0|00011335oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T20:16:12 (last step: 419 msec, total: 716 msec)
+#=#=#=# Syncrun started 2017-11-28T20:16:16
+#=#=#=#=# Propagation starts 2017-11-28T20:16:16 (last step: 202 msec, total: 202 msec)
+19:16:17||public/404.html|INST_SYNC|Up|1511896574|c77baf521c174c4f4b6385f107349188|1711|00011341oc03gg1yp8mc|4||204|1711|1511896206|1407d5eeafc52b2ca2509c40473b934a|00011341oc03gg1yp8mc|INST_NONE|
+19:16:17||public/index.json|INST_SYNC|Up|1511896574|870729da9b08cc2dd4111c6a9160777b|4139|00011401oc03gg1yp8mc|4||204|4139|1511896206|c2adb4925ededc921583ed05abd85de7|00011401oc03gg1yp8mc|INST_NONE|
+19:16:17||public/index.xml|INST_SYNC|Up|1511896574|a88796ac9207c6eafb972fe4419e09db|2111|00011402oc03gg1yp8mc|4||204|2111|1511896206|31de2fbbcc28c33f9602910fb61bf3c8|00011402oc03gg1yp8mc|INST_NONE|
+19:16:17||public/index.html|INST_SYNC|Up|1511896574|e081809e1e224a4601df477b6817cb5a|14287|00011354oc03gg1yp8mc|4||204|14289|1511896206|b8114746f4b524a8c908f15b1073a111|00011354oc03gg1yp8mc|INST_NONE|
+19:16:17||public/ratxabox/index.html|INST_SYNC|Up|1511896574|0f35f50db6759aac902977c95f7f2c84|16046|00011432oc03gg1yp8mc|4||204|16048|1511896206|01bf375c7c52956fae1e9f9d618d2ae1|00011432oc03gg1yp8mc|INST_NONE|
+19:16:17||public/ratxabox/ratxabox/index.html|INST_SYNC|Up|1511896574|107c0d464be831d6ff7cd9675bc00975|19146|00011434oc03gg1yp8mc|4||204|19148|1511896206|e8d947b9d174078125bfaf0fcbe6803a|00011434oc03gg1yp8mc|INST_NONE|
+19:16:18||public/sitemap.xml|INST_SYNC|Up|1511896574|de34631254f6ced4fd0b3b62c2e5f8c9|909|00011431oc03gg1yp8mc|4||204|909|1511896206|ac51a34ff364fca69a1891067b6091b0|00011431oc03gg1yp8mc|INST_NONE|
+19:16:18||public/tuto/index.html|INST_SYNC|Up|1511896574|ee45fbf8737c3d1a849d3d7cd3d0a105|16054|00011439oc03gg1yp8mc|4||204|16056|1511896206|63dbeaf277649bbc2c65b6ecead337b8|00011439oc03gg1yp8mc|INST_NONE|
+19:16:18||public/tuto/ratxabox-mondedie/index.html|INST_SYNC|Up|1511896574|a56ba9446b598c914f42dfa1a515298b|16761|00011442oc03gg1yp8mc|4||204|16763|1511896206|dbfbcbaeac22b452c8de22c29a5b7bea|00011442oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T20:16:18 (last step: 1688 msec, total: 1890 msec)
+#=#=#=# Syncrun started 2017-11-28T20:17:03
+#=#=#=#=# Propagation starts 2017-11-28T20:17:03 (last step: 813 msec, total: 813 msec)
+#=#=#=# Syncrun finished 2017-11-28T20:17:03 (last step: 26 msec, total: 840 msec)
+#=#=#=# Syncrun started 2017-11-28T22:13:05
+#=#=#=#=# Propagation starts 2017-11-28T22:13:06 (last step: 257 msec, total: 257 msec)
+21:13:07||content/ratxabox/tuto|INST_NEW|Up|1511903583||0|00011734oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+21:13:07||content/ratxabox/tuto/RatXaBox-mondedie.md|INST_NEW|Up|1511726219|2f7f8663c4db1dea6149fc6e16b20972|728|00011735oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+21:13:07||content/ratxabox/tuto/_index.md|INST_NEW|Up|1511726219|fec34158ba8d7d829ab7d35878e21cc0|137|00011736oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T22:13:06 (last step: 716 msec, total: 973 msec)
+#=#=#=# Syncrun started 2017-11-28T22:14:03
+#=#=#=#=# Propagation starts 2017-11-28T22:14:03 (last step: 601 msec, total: 601 msec)
+#=#=#=# Syncrun finished 2017-11-28T22:14:03 (last step: 33 msec, total: 635 msec)
+#=#=#=# Syncrun started 2017-11-28T22:14:19
+#=#=#=#=# Propagation starts 2017-11-28T22:14:19 (last step: 330 msec, total: 330 msec)
+21:14:20||content/ratxabox/tuto|INST_REMOVE|Up|1511903587|5a1dd1638f1e4|0|00011734oc03gg1yp8mc|4||204|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-11-28T22:14:20 (last step: 459 msec, total: 790 msec)
+#=#=#=# Syncrun started 2017-11-28T22:15:03
+#=#=#=#=# Propagation starts 2017-11-28T22:15:03 (last step: 485 msec, total: 485 msec)
+#=#=#=# Syncrun finished 2017-11-28T22:15:03 (last step: 24 msec, total: 510 msec)
+#=#=#=# Syncrun started 2017-11-29T00:15:07
+#=#=#=#=# Propagation starts 2017-11-29T00:15:08 (last step: 271 msec, total: 271 msec)
+#=#=#=# Syncrun finished 2017-11-29T00:15:08 (last step: 19 msec, total: 291 msec)
+#=#=#=# Syncrun started 2017-11-29T02:15:12
+#=#=#=#=# Propagation starts 2017-11-29T02:15:13 (last step: 296 msec, total: 296 msec)
+#=#=#=# Syncrun finished 2017-11-29T02:15:13 (last step: 18 msec, total: 314 msec)
+#=#=#=# Syncrun started 2017-11-29T18:45:19
+#=#=#=#=# Propagation starts 2017-11-29T18:45:19 (last step: 195 msec, total: 195 msec)
+#=#=#=# Syncrun finished 2017-11-29T18:45:19 (last step: 14 msec, total: 210 msec)

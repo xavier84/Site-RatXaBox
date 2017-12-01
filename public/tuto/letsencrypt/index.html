@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
 
-    <title>Installation de RatXaBox :: Ratxabox</title>
+    <title>Let&#39;s Encrypt :: Ratxabox</title>
     
     
     <link href="/css/nucleus.css?1512155540" rel="stylesheet">
@@ -33,7 +33,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/ratxabox/">
+  <body class="" data-url="/tuto/letsencrypt/">
     <nav id="sidebar" class="showVisitedLinks">
 
 
@@ -92,8 +92,8 @@
   
     
     <li data-nav-id="/ratxabox/" title="Installation de RatXaBox" class="dd-item 
-        parent
-        active
+        
+        
         
         ">
       <a href="/ratxabox/">
@@ -145,7 +145,7 @@
   
     
     <li data-nav-id="/tuto/" title="Tutoriel " class="dd-item 
-        
+        parent
         
         
         ">
@@ -171,7 +171,7 @@
  
   
     
-      <li data-nav-id="/tuto/letsencrypt/" title="Let&#39;s Encrypt" class="dd-item ">
+      <li data-nav-id="/tuto/letsencrypt/" title="Let&#39;s Encrypt" class="dd-item active">
         <a href="/tuto/letsencrypt/">
         Let&#39;s Encrypt
         <i class="fa fa-check read-icon"></i>
@@ -242,7 +242,7 @@
                   
                   
                   <div id="top-github-link">
-                    <a class="github-link" title='Edit this page' href="https://github.com/xavier84/Site-RatXaBox/edit/master/content/ratxabox/_index.md" target="blank">
+                    <a class="github-link" title='Edit this page' href="https://github.com/xavier84/Site-RatXaBox/edit/master/content/tuto/letsencrypt.md" target="blank">
                       <i class="fa fa-code-fork"></i>
                       <span id="top-github-link-text">Edit this page</span>
                     </a>
@@ -257,6 +257,8 @@
                         </a>
                     </span>
                   
+                  <span id="toc-menu"><i class="fa fa-list-alt"></i></span>
+                  
                   <span class="links">
                     
           
@@ -265,7 +267,13 @@
             
           
           
-            <a href='/'>tuto</a> > Installation de RatXaBox
+            
+            
+          
+          
+            <a href='/'>tuto</a> > <a href='/tuto/'>Tutoriel </a> > Let's Encrypt
+          
+         
           
          
           
@@ -273,14 +281,28 @@
                   </span>
                 </div>
                 
+                    <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#installation-de-let-s-encrypt-sur-le-script-ratxabox">Installation de Let&rsquo;s Encrypt sur le script ratxabox</a></li>
+</ul></li>
+</ul>
+</nav>
+    </div>
+</div>
+
+                
               </div>
             </div>
             
 
         
-          <div id="chapter">
-        
         <div id="body-inner">
+          
+            <h1>Let&#39;s Encrypt</h1>
           
 
         
@@ -288,19 +310,43 @@
 
 
 
-<h3 id="chapter-1">Chapter 1</h3>
+<h2 id="installation-de-let-s-encrypt-sur-le-script-ratxabox">Installation de Let&rsquo;s Encrypt sur le script ratxabox</h2>
 
-<h1 id="une-seedbox-comment-ça-marche">Une seedbox comment ça marche</h1>
+<pre><code>service nginx stop
+cd /tmp
+wget https://dl.eff.org/certbot-auto
+chmod a+x ./certbot-auto
+</code></pre>
 
-<p>Une seedbox est un outil très prisé sur les trackers torrents puisqu’elle permet aux utilisateurs d’obtenir de gros ratio tout en se protégeant d’HADOPI (lire : VPN ou seedbox). Elles restent relativement floues pour les novices, c’est pourquoi nous allons vous expliquer dans ce tutoriel leur fonctionnement puis dresser une liste des meilleures seedbox. Grâce à NextWarez, place à la seedbox facile !</p>
+<p>change par ton domain</p>
+
+<pre><code>./certbot-auto certonly        \
+  --standalone                 \
+  --rsa-key-size 4096          \
+  --agree-tos                  \
+  --email john.doe@mondedie.fr \
+  --domains mondedie.fr        \
+  --domains www.mondedie.fr
+</code></pre>
+
+<p>tu modifi dans</p>
+
+<pre><code>ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
+
+</code></pre>
+
+<p>et un start</p>
+
+<pre><code>service nginx start
+</code></pre>
 
 
 <footer class=" footline" >
 	
 </footer>
 
-        
-            </div> 
+
         
         </div> 
         
@@ -332,41 +378,8 @@
             
                 
                     
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
                         
                         
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
                     
                 
                 
@@ -395,6 +408,40 @@
             
         
                     
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
             
         
         
@@ -402,10 +449,10 @@
 
 
         
-            <a class="nav nav-prev" href="/" title="tuto"> <i class="fa fa-chevron-left"></i></a>
+            <a class="nav nav-prev" href="/tuto/" title="Tutoriel "> <i class="fa fa-chevron-left"></i></a>
         
         
-            <a class="nav nav-next" href="/ratxabox/ratxabox/" title="Ratxabox" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+            <a class="nav nav-next" href="/ratxabox/" title="Installation de RatXaBox" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
         
     </div>
 
@@ -453,3 +500,4 @@
 
   </body>
 </html>
+

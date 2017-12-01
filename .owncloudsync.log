@@ -77,3 +77,59 @@
 17:39:48||public/tuto/index.html|INST_SYNC|Up|1512149984|7ed66f1eee93af8a6458bed43d3dc4ae|16064|00011439oc03gg1yp8mc|4||204|16054|1512149957|d5119e36b40fa3d0daa7ac96c5d3d977|00011439oc03gg1yp8mc|INST_NONE|
 17:39:48||public/tuto/ratxabox-mondedie/index.html|INST_SYNC|Up|1512149984|6ef05abfa66ae959c78533a6f782c349|16771|00011442oc03gg1yp8mc|4||204|16761|1512149957|d51566226669969709b4126a73f43fd6|00011442oc03gg1yp8mc|INST_NONE|
 #=#=#=# Syncrun finished 2017-12-01T18:39:48 (last step: 1521 msec, total: 1707 msec)
+#=#=#=# Syncrun started 2017-12-01T18:40:31
+#=#=#=#=# Propagation starts 2017-12-01T18:40:32 (last step: 796 msec, total: 796 msec)
+#=#=#=# Syncrun finished 2017-12-01T18:40:32 (last step: 19 msec, total: 816 msec)
+#=#=#=# Syncrun started 2017-12-01T18:45:27
+#=#=#=#=# Propagation starts 2017-12-01T18:45:27 (last step: 271 msec, total: 271 msec)
+17:45:28||public|INST_REMOVE|Up|1512149988|5a2193e503dce|0|00011334oc03gg1yp8mc|4||204|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-12-01T18:45:28 (last step: 790 msec, total: 1061 msec)
+#=#=#=# Syncrun started 2017-12-01T18:45:31
+#=#=#=#=# Propagation starts 2017-12-01T18:45:31 (last step: 230 msec, total: 230 msec)
+17:45:32||public|INST_NEW|Up|1512150329||0|00011772oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:32||public/css|INST_NEW|Up|1511726224||0|00011773oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:32||public/fonts|INST_NEW|Up|1511726224||0|00011774oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:32||public/404.html|INST_NEW|Up|1512150329|cf1716a74c5f6cf3dde9c7c49d7aad23|1731|00011775oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:32||public/images|INST_NEW|Up|1511726224||0|00011776oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:32||public/index.json|INST_NEW|Up|1512150329|f6d1ec885882b590166282b1e647363e|4209|00011777oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:32||public/index.html|INST_NEW|Up|1512150329|d7b7560676d9abcf3672f467163cd801|14297|00011778oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:32||public/css/auto-complete.css|INST_NEW|Up|1511726224|4b4005d12364661dacad6f6899fa2550|894|00011779oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:33||public/css/featherlight.min.css|INST_NEW|Up|1511726224|4b3c33633227d563fa2480463ec99efc|1448|00011780oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:33||public/css/font-awesome.min.css|INST_NEW|Up|1511726224|6289d6c3fef4604086fdb52e420972db|31000|00011781oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:33||public/css/hugo-theme.css|INST_NEW|Up|1511726224|5e3543add6f95e7038a8e034127a2eff|5015|00011782oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:33||public/css/hybrid.css|INST_NEW|Up|1511726224|ccf6bae62032a20d4221bf804e468d1a|1342|00011783oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:33||public/css/nucleus.css|INST_NEW|Up|1511726224|49bd3422b8cbb3b53f6f2a5871f10985|11928|00011784oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:33||public/css/perfect-scrollbar.min.css|INST_NEW|Up|1511726224|e75ffb7a070878746c25126700cb0a73|4629|00011785oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:33||public/css/theme-blue.css|INST_NEW|Up|1511726224|9d15bb6319d7dcdd8b0b5282f9b97a83|3471|00011786oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:33||public/css/theme-green.css|INST_NEW|Up|1511726224|cbda934e8eb8cbf33535ed52d6843dff|3475|00011787oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:33||public/css/theme-red.css|INST_NEW|Up|1511726224|4580214fc189479f28d15927e5b2db8f|3475|00011788oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:34||public/css/theme.css|INST_NEW|Up|1511726224|097c10a74b038e66d94f4009000d3bf2|24545|00011789oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:34||public/fonts/Inconsolata.eot|INST_NEW|Up|1511726223|fb81dabc429c83ac84ae4173d76a8523|35620|00011790oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:35||public/fonts/Novecentosanswide-Normal-webfont.eot|INST_NEW|Up|1511726223|e001405c92b71c6ceafbfed06f24b5ee|22446|00011791oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:34||public/fonts/Inconsolata.woff|INST_NEW|Up|1511726223|aae216d264fe9bd5e75c2adb41bbb63c|38248|00011792oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:34||public/fonts/Inconsolata.ttf|INST_NEW|Up|1511726223|cbc8d49a4a8c63bff02523f2f1bdf522|63184|00011793oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:34||public/fonts/Inconsolata.svg|INST_NEW|Up|1511726223|c6f34f4c089443b4151246842e275201|63019|00011794oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:36||public/fonts/Novecentosanswide-Normal-webfont.woff|INST_NEW|Up|1511726223|a86bb2a07f5967a7adb91697e1c3d94e|24772|00011795oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:36||public/fonts/Novecentosanswide-Normal-webfont.ttf|INST_NEW|Up|1511726223|c48c87fa03e0d6cb0ba4f8e72b251dc6|56884|00011796oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:37||public/fonts/Novecentosanswide-Normal-webfont.woff2|INST_NEW|Up|1511726223|eb207e545e8ac899d1e3d5e7ff0ebc11|19760|00011797oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:37||public/fonts/Novecentosanswide-UltraLight-webfont.eot|INST_NEW|Up|1511726223|7d011f57a1e798bee01aa1847badb932|21080|00011798oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:34||public/fonts/FontAwesome.otf|INST_NEW|Up|1511726223|3191485a9fb2b8937b1fe79b973649ff|134808|00011799oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:35||public/fonts/Novecentosanswide-Normal-webfont.svg|INST_NEW|Up|1511726223|a0d732883051ed857243a45794efb120|103303|00011800oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:37||public/fonts/Novecentosanswide-UltraLight-webfont.woff2|INST_NEW|Up|1511726223|e9b384e77f06c0158fbdc327035b9a89|18716|00011801oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:37||public/fonts/Work_Sans_200.eot|INST_NEW|Up|1511726224|cf10485efde9d3018bb460aea728cf9d|24290|00011802oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:37||public/fonts/Work_Sans_200.svg|INST_NEW|Up|1511726223|b78b048179e8c306f0d35a6d07b5605f|55881|00011803oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:37||public/fonts/Novecentosanswide-UltraLight-webfont.woff|INST_NEW|Up|1511726223|1159b44c1fbede60e6c63129ba312078|23476|00011804oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:38||public/fonts/Work_Sans_200.ttf|INST_NEW|Up|1511726223|2ad22b6197f8e9dbec448fa320a8a7e4|49752|00011805oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:37||public/fonts/Novecentosanswide-UltraLight-webfont.ttf|INST_NEW|Up|1511726223|50e4ce1c4c37d17dc30c4ce879622766|55600|00011806oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:39||public/fonts/Work_Sans_200.woff|INST_NEW|Up|1511726223|aa41684d8761a4e8ec752d033ec4b885|25896|00011807oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:37||public/fonts/Novecentosanswide-UltraLight-webfont.svg|INST_NEW|Up|1511726223|6a7ee571cc22731d93770c2202120dc2|96245|00011808oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:39||public/fonts/Work_Sans_200.woff2|INST_NEW|Up|1511726223|2979be981273e23a75cfb33005e36973|21128|00011809oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:39||public/fonts/Work_Sans_300.eot|INST_NEW|Up|1511726223|fc0bb23feaf3b82b8df601c8ecc6f63a|24817|00011810oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:39||public/fonts/Work_Sans_300.ttf|INST_NEW|Up|1511726224|75001cb3765b65b86bad5d41285951b8|50784|00011811oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:40||public/fonts/Work_Sans_300.woff|INST_NEW|Up|1511726223|993c1d54c0b1d04cfd1cc87e3421a6dd|26392|00011812oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:40||public/fonts/Work_Sans_500.svg|INST_NEW|Up|1511726223|aa29f72817959f82923d9ebe6db67607|55464|00011813oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:40||public/fonts/Work_Sans_500.eot|INST_NEW|Up|1511726223|03fccc6be5174441e143be340db495e8|26481|00011814oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:40||public/fonts/Work_Sans_300.woff2|INST_NEW|Up|1511726223|dce0385540e8c0df53599f85cd94c849|21548|00011815oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:41||public/fonts/Work_Sans_500.woff2|INST_NEW|Up|1511726223|26d42f52b8fd561b18eb8dfd9a6ce7e2|22884|00011816oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:41||public/fonts/Work_Sans_500.woff|INST_NEW|Up|1511726223|adcc272d3eb379fa616553615a870d97|27900|00011817oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:41||public/fonts/Work_Sans_500.ttf|INST_NEW|Up|1511726223|d93f12a7bc2ec5c829f4ed9a894f5fc5|54232|00011818oc03gg1yp8mc|4||201|0|0|||INST_NONE|

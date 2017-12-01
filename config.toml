@@ -1,4 +1,5 @@
 languageCode = "fr-FR"
+defaultContentLanguage = "fr"
 title = "Ratxabox"
 baseurl = "https://tuto.ratxabox.ovh/"
 # Modifiez le thème pour qu'il soit utilisé par défaut à chaque génération de site.

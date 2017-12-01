@@ -133,3 +133,50 @@
 17:45:41||public/fonts/Work_Sans_500.woff2|INST_NEW|Up|1511726223|26d42f52b8fd561b18eb8dfd9a6ce7e2|22884|00011816oc03gg1yp8mc|4||201|0|0|||INST_NONE|
 17:45:41||public/fonts/Work_Sans_500.woff|INST_NEW|Up|1511726223|adcc272d3eb379fa616553615a870d97|27900|00011817oc03gg1yp8mc|4||201|0|0|||INST_NONE|
 17:45:41||public/fonts/Work_Sans_500.ttf|INST_NEW|Up|1511726223|d93f12a7bc2ec5c829f4ed9a894f5fc5|54232|00011818oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:39||public/fonts/Work_Sans_300.svg|INST_NEW|Up|1511726223|9645397d8ce226ee94c1b92962fb772e|55829|00011819oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:41||public/fonts/fontawesome-webfont.eot|INST_NEW|Up|1511726223|177a0c03871e8b699524eb3a40f510e5|165742|00011820oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:42||public/fonts/fontawesome-webfont.ttf|INST_NEW|Up|1511726223|97acbe9c2d6e19d43489b86e47f4023a|165548|00011821oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:45||public/images/favicon.png|INST_NEW|Up|1511726224|8c19488daa62a1e5c770ba874ebc9172|1253|00011823oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:45||public/images/clippy.svg|INST_NEW|Up|1511726224|ff62ef2866c13b0f8b76e67b43444334|519|00011822oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:44||public/fonts/fontawesome-webfont.woff2|INST_NEW|Up|1511726224|5d6fde01d6de9814695a16b9c5e09dbb|77160|00011824oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:45||public/index.xml|INST_NEW|Up|1512150329|5d5872cbf4616788ae1f2bade5edcde7|2171|00011825oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:44||public/fonts/fontawesome-webfont.woff|INST_NEW|Up|1511726223|60fdf38e5921a6637b3a29f732c0555c|98024|00011826oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:46||public/mermaid|INST_NEW|Up|1511726224||0|00011828oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:46||public/js|INST_NEW|Up|1511726224||0|00011827oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:46||public/mermaid/mermaid.css|INST_NEW|Up|1511726224|58e27bae433f3ad964598515fa44bdc8|3969|00011829oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:46||public/js/auto-complete.js|INST_NEW|Up|1511726224|732610a614a010b0122123852daa53dd|10865|00011830oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:46||public/js/clipboard.min.js|INST_NEW|Up|1511726224|5dd1b4f06fc4d88238a679ea3d6371e9|8855|00011831oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:47||public/js/featherlight.min.js|INST_NEW|Up|1511726224|9d2bd0a8e3a32371c15ca11923872ecc|7257|00011832oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:47||public/js/html5shiv-printshiv.min.js|INST_NEW|Up|1511726224|9bd3cd4a952685642a213cc3d5f3cd0e|4133|00011833oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:47||public/js/hugo-learn.js|INST_NEW|Up|1511726224|4db28a8b1d64028d31f201e4fabf4094|2449|00011834oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:47||public/js/highlight.pack.js|INST_NEW|Up|1511726224|8e555606582ac86d62e883ff5ecc99d7|58807|00011835oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:48||public/js/jquery.sticky.js|INST_NEW|Up|1511726224|0bb2023e9427b88fe7e4013530be2d3a|10085|00011836oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:41||public/fonts/fontawesome-webfont.svg|INST_NEW|Up|1511726224|98b6d8d2c0bde73b8aca3863767a6841|444379|00011837oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:48||public/js/jquery-2.x.min.js|INST_NEW|Up|1511726224|f2354bbb225e1c7a8523e4589c0e4abf|85659|00011838oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:49||public/js/learn.js|INST_NEW|Up|1511726224|67506f78b2e4983ebdf3babc3e38cbb0|15174|00011839oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:49||public/js/modernizr.custom.71422.js|INST_NEW|Up|1511726224|2c63ba6cf4b6ae59a41386e49e7da1d4|9093|00011840oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:49||public/js/lunr.min.js|INST_NEW|Up|1511726224|759fbbd92107e02e6810d501abbe1b96|15504|00011841oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:49||public/js/perfect-scrollbar.jquery.min.js|INST_NEW|Up|1511726224|9cdd9dc0b3e7d1c2784984c89432859f|25333|00011842oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:49||public/js/perfect-scrollbar.min.js|INST_NEW|Up|1511726224|8ed92c62f6caa972bb544eef0a5b1c2a|25012|00011843oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:49||public/js/search.js|INST_NEW|Up|1511726224|3bd164134d7eeffd0e617afce97eb7f9|3029|00011844oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:49||public/mermaid/mermaid.dark.css|INST_NEW|Up|1511726224|031dabff7f0fac1bbd4b11f94bc59ea4|4200|00011845oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:45||public/images/gopher-404.jpg|INST_NEW|Up|1511726224|f9739f4b245484bdafe14c76bd26638f|220526|00011846oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:50||public/mermaid/mermaid.forest.css|INST_NEW|Up|1511726224|44001792d471aea7c6f2d0efd2bbe086|5208|00011847oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:50||public/ratxabox|INST_NEW|Up|1512150329||0|00011848oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:50||public/tuto|INST_NEW|Up|1512150329||0|00011849oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:50||public/sitemap.xml|INST_NEW|Up|1512150329|caa1b4f5686f21cf30b53d781bf899ca|979|00011850oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:50||public/ratxabox/ratxabox|INST_NEW|Up|1512150329||0|00011851oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:50||public/ratxabox/index.html|INST_NEW|Up|1512150329|84f56e0c516a58ac13be4a74ddb942d4|16056|00011852oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:51||public/tuto/ratxabox-mondedie|INST_NEW|Up|1512150329||0|00011853oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:50||public/tuto/index.html|INST_NEW|Up|1512150329|8aceaf479a6dd69374ec9b4be37a2494|16064|00011854oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:51||public/ratxabox/ratxabox/index.html|INST_NEW|Up|1512150329|989cc124ab06286f2098094a2245e918|19156|00011855oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:51||public/tuto/ratxabox-mondedie/index.html|INST_NEW|Up|1512150329|30794dd66e39cbfdc1f31259b0ab5e22|16771|00011856oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+17:45:50||public/mermaid/mermaid.js|INST_NEW|Up|1511726224|58db8851ec9db33a6d77cd183ef1b10f|627810|00011857oc03gg1yp8mc|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-12-01T18:45:53 (last step: 22428 msec, total: 22659 msec)
+#=#=#=# Syncrun started 2017-12-01T18:46:31
+#=#=#=#=# Propagation starts 2017-12-01T18:46:33 (last step: 1505 msec, total: 1505 msec)
+#=#=#=# Syncrun finished 2017-12-01T18:46:33 (last step: 32 msec, total: 1537 msec)
+#=#=#=# Syncrun started 2017-12-01T18:48:19
+#=#=#=#=# Propagation starts 2017-12-01T18:48:20 (last step: 323 msec, total: 323 msec)
+17:48:20||layouts/partials/logo.html|INST_SYNC|Up|1512150497|ef650d2bf78e8b9fc5b359cde944c356|5957|00011348oc03gg1yp8mc|4||204|5953|1511808274|cab4525ed1aaec6d39f0687de15b5e9c|00011348oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-12-01T18:48:20 (last step: 521 msec, total: 844 msec)

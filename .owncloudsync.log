@@ -180,3 +180,21 @@
 #=#=#=#=# Propagation starts 2017-12-01T18:48:20 (last step: 323 msec, total: 323 msec)
 17:48:20||layouts/partials/logo.html|INST_SYNC|Up|1512150497|ef650d2bf78e8b9fc5b359cde944c356|5957|00011348oc03gg1yp8mc|4||204|5953|1511808274|cab4525ed1aaec6d39f0687de15b5e9c|00011348oc03gg1yp8mc|INST_NONE|
 #=#=#=# Syncrun finished 2017-12-01T18:48:20 (last step: 521 msec, total: 844 msec)
+#=#=#=# Syncrun started 2017-12-01T18:49:01
+#=#=#=#=# Propagation starts 2017-12-01T18:49:02 (last step: 452 msec, total: 452 msec)
+#=#=#=# Syncrun finished 2017-12-01T18:49:02 (last step: 25 msec, total: 478 msec)
+#=#=#=# Syncrun started 2017-12-01T18:49:57
+#=#=#=#=# Propagation starts 2017-12-01T18:49:58 (last step: 338 msec, total: 338 msec)
+17:49:59||public/404.html|INST_SYNC|Up|1512150595|653c0e3a009d3692dddd4f131507106f|1731|00011775oc03gg1yp8mc|4||204|1731|1512150329|cf1716a74c5f6cf3dde9c7c49d7aad23|00011775oc03gg1yp8mc|INST_NONE|
+17:49:59||public/index.json|INST_SYNC|Up|1512150595|1bcf508ebac6642ccfe16440462bf76f|4209|00011777oc03gg1yp8mc|4||204|4209|1512150329|f6d1ec885882b590166282b1e647363e|00011777oc03gg1yp8mc|INST_NONE|
+17:49:59||public/index.html|INST_SYNC|Up|1512150595|f9dc6a2b00ed56f75294cbde7db4e212|14301|00011778oc03gg1yp8mc|4||204|14297|1512150329|d7b7560676d9abcf3672f467163cd801|00011778oc03gg1yp8mc|INST_NONE|
+17:49:59||public/index.xml|INST_SYNC|Up|1512150595|a38e2d933b4a6e224521c7097c149fa8|2171|00011825oc03gg1yp8mc|4||204|2171|1512150329|5d5872cbf4616788ae1f2bade5edcde7|00011825oc03gg1yp8mc|INST_NONE|
+17:49:59||public/ratxabox/index.html|INST_SYNC|Up|1512150595|0d3ba8a6db3bba20f52dc08ec86cf90a|16060|00011852oc03gg1yp8mc|4||204|16056|1512150329|84f56e0c516a58ac13be4a74ddb942d4|00011852oc03gg1yp8mc|INST_NONE|
+17:49:59||public/sitemap.xml|INST_SYNC|Up|1512150595|f7136f9fdf174c0b916133b532bb296f|979|00011850oc03gg1yp8mc|4||204|979|1512150329|caa1b4f5686f21cf30b53d781bf899ca|00011850oc03gg1yp8mc|INST_NONE|
+17:49:59||public/ratxabox/ratxabox/index.html|INST_SYNC|Up|1512150595|c627a1191f771248fc8371f9fe08ee5e|19160|00011855oc03gg1yp8mc|4||204|19156|1512150329|989cc124ab06286f2098094a2245e918|00011855oc03gg1yp8mc|INST_NONE|
+17:49:59||public/tuto/index.html|INST_SYNC|Up|1512150595|29db87c299970c80fc0eef7c06d6a524|16068|00011854oc03gg1yp8mc|4||204|16064|1512150329|8aceaf479a6dd69374ec9b4be37a2494|00011854oc03gg1yp8mc|INST_NONE|
+17:49:59||public/tuto/ratxabox-mondedie/index.html|INST_SYNC|Up|1512150595|b664249c32b968b8ed23eaa6f2dd378e|16775|00011856oc03gg1yp8mc|4||204|16771|1512150329|30794dd66e39cbfdc1f31259b0ab5e22|00011856oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-12-01T18:49:59 (last step: 1585 msec, total: 1923 msec)
+#=#=#=# Syncrun started 2017-12-01T18:50:31
+#=#=#=#=# Propagation starts 2017-12-01T18:50:32 (last step: 852 msec, total: 852 msec)
+#=#=#=# Syncrun finished 2017-12-01T18:50:32 (last step: 27 msec, total: 880 msec)

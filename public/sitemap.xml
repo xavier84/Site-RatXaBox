@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tuto.ratxabox.ovh/tuto/couchpotato/</loc>
+    <lastmod>2017-11-26T09:17:16+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tuto.ratxabox.ovh/tuto/letsencrypt/</loc>
+    <lastmod>2017-11-26T09:17:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tuto.ratxabox.ovh/tuto/sickrage/</loc>
     <lastmod>2017-11-26T09:17:16+01:00</lastmod>
   </url>
   

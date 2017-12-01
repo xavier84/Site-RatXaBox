@@ -1,6 +1,20 @@
 [
 {
+	"uri": "https://tuto.ratxabox.ovh/tuto/couchpotato/",
+	"title": "Couchpotato",
+	"tags": [],
+	"description": "",
+	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  "
+},
+{
 	"uri": "https://tuto.ratxabox.ovh/tuto/letsencrypt/",
+	"title": "Let&#39;s Encrypt",
+	"tags": [],
+	"description": "",
+	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  "
+},
+{
+	"uri": "https://tuto.ratxabox.ovh/tuto/sickrage/",
 	"title": "Let&#39;s Encrypt",
 	"tags": [],
 	"description": "",
@@ -15,10 +29,10 @@
 },
 {
 	"uri": "https://tuto.ratxabox.ovh/",
-	"title": "tuto",
+	"title": "Into",
 	"tags": [],
 	"description": "",
-	"content": " Chapter 1 Pourquoi faire un tuto hulhuobuiyloyo\n"
+	"content": " Into Pourquoi faire un tuto hulhuobuiyloyo\n"
 },
 {
 	"uri": "https://tuto.ratxabox.ovh/ratxabox/",

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tuto on Ratxabox</title>
+    <title>Into on Ratxabox</title>
     <link>https://tuto.ratxabox.ovh/</link>
-    <description>Recent content in tuto on Ratxabox</description>
+    <description>Recent content in Into on Ratxabox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Sun, 26 Nov 2017 09:16:30 +0100</lastBuildDate>
@@ -12,11 +12,35 @@
     
     
     <item>
+      <title>Couchpotato</title>
+      <link>https://tuto.ratxabox.ovh/tuto/couchpotato/</link>
+      <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
+      
+      <guid>https://tuto.ratxabox.ovh/tuto/couchpotato/</guid>
+      <description> Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
+./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
+ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
+service nginx start  </description>
+    </item>
+    
+    <item>
       <title>Let&#39;s Encrypt</title>
       <link>https://tuto.ratxabox.ovh/tuto/letsencrypt/</link>
       <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
       
       <guid>https://tuto.ratxabox.ovh/tuto/letsencrypt/</guid>
+      <description> Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
+./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
+ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
+service nginx start  </description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Encrypt</title>
+      <link>https://tuto.ratxabox.ovh/tuto/sickrage/</link>
+      <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
+      
+      <guid>https://tuto.ratxabox.ovh/tuto/sickrage/</guid>
       <description> Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
 ./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
 ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start

@@ -36,18 +36,6 @@ service nginx start  </description>
     </item>
     
     <item>
-      <title>Let&#39;s Encrypt</title>
-      <link>https://tuto.ratxabox.ovh/tuto/sickrage/</link>
-      <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
-      
-      <guid>https://tuto.ratxabox.ovh/tuto/sickrage/</guid>
-      <description> Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
-./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
-ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
-service nginx start  </description>
-    </item>
-    
-    <item>
       <title>Ratxabox</title>
       <link>https://tuto.ratxabox.ovh/ratxabox/ratxabox/</link>
       <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
@@ -57,6 +45,18 @@ service nginx start  </description>
  Inclus VsFTPd (ftp &amp;amp; ftps sur le port 21), Fail2ban (avec conf nginx, ftp &amp;amp; ssh)
  Seedbox-Manager, Auteurs: Magicalex, Hydrog3n et Backtoback
   Tiré du tutoriel de Magicalex pour mondedie.fr disponible ici:</description>
+    </item>
+    
+    <item>
+      <title>Sickrage</title>
+      <link>https://tuto.ratxabox.ovh/tuto/sickrage/</link>
+      <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
+      
+      <guid>https://tuto.ratxabox.ovh/tuto/sickrage/</guid>
+      <description> Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
+./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
+ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
+service nginx start  </description>
     </item>
     
   </channel>

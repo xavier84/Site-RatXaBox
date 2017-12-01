@@ -318,3 +318,27 @@
 19:57:07||public/tuto/couchpotato/index.html|INST_NEW|Up|1512158222|2deefe900cbdc827193e1f23237852d1|18021|00011927oc03gg1yp8mc|4||201|0|0|||INST_NONE|
 19:57:07||public/tuto/sickrage/index.html|INST_NEW|Up|1512158222|d3785369c038e375b1d5422df1d6d033|18043|00011928oc03gg1yp8mc|4||201|0|0|||INST_NONE|
 #=#=#=# Syncrun finished 2017-12-01T20:57:07 (last step: 2110 msec, total: 2568 msec)
+#=#=#=# Syncrun started 2017-12-01T20:58:01
+#=#=#=#=# Propagation starts 2017-12-01T20:58:02 (last step: 1006 msec, total: 1006 msec)
+#=#=#=# Syncrun finished 2017-12-01T20:58:02 (last step: 31 msec, total: 1038 msec)
+#=#=#=# Syncrun started 2017-12-01T20:58:45
+#=#=#=#=# Propagation starts 2017-12-01T20:58:46 (last step: 295 msec, total: 295 msec)
+19:58:47||content/tuto/sickrage.md|INST_SYNC|Up|1512158323|dcf8909332e43e3c26734fafa4242a34|735|00011913oc03gg1yp8mc|4||204|740|1512153752|9ec22289cfcba36e203165dd4428f271|00011913oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-12-01T20:58:46 (last step: 433 msec, total: 729 msec)
+#=#=#=# Syncrun started 2017-12-01T20:58:52
+#=#=#=#=# Propagation starts 2017-12-01T20:58:53 (last step: 565 msec, total: 565 msec)
+19:58:54||public/404.html|INST_SYNC|Up|1512158330|142871951868b3711000e3687a6f7994|1731|00011775oc03gg1yp8mc|4||204|1731|1512158222|15fbce854e2641fe4796ca40a660fe89|00011775oc03gg1yp8mc|INST_NONE|
+19:58:54||public/index.xml|INST_SYNC|Up|1512158330|272a950d63575b8c03b1944cedfd3efd|3798|00011825oc03gg1yp8mc|4||204|3807|1512158222|474c249e02792f9f99bc78379fe69ce8|00011825oc03gg1yp8mc|INST_NONE|
+19:58:54||public/index.json|INST_SYNC|Up|1512158330|19217a782d17eb6a21f70ab56580aa3c|5616|00011777oc03gg1yp8mc|4||204|5625|1512158222|330456eeb91335b18fd4cf28325f8bac|00011777oc03gg1yp8mc|INST_NONE|
+19:58:54||public/index.html|INST_SYNC|Up|1512158330|f4fc30a81552054e28f9729ec106075c|15401|00011778oc03gg1yp8mc|4||204|15419|1512158222|6629b6661ffc4b19a27e1861d51cd72d|00011778oc03gg1yp8mc|INST_NONE|
+19:58:54||public/ratxabox/index.html|INST_SYNC|Up|1512158330|a378479221f529320f7035ccbf60d8de|17182|00011852oc03gg1yp8mc|4||204|17200|1512158222|a16aa89b1d94a0b39dcd2594817acafd|00011852oc03gg1yp8mc|INST_NONE|
+19:58:54||public/sitemap.xml|INST_SYNC|Up|1512158330|95f89f2cc2eac08eaa6db0cbea484a2e|1226|00011850oc03gg1yp8mc|4||204|1226|1512158222|ad156734c086f56ae95239601ac9ad85|00011850oc03gg1yp8mc|INST_NONE|
+19:58:54||public/ratxabox/ratxabox/index.html|INST_SYNC|Up|1512158330|bd18a6d3a9a4a78577cf98c904201e57|20287|00011855oc03gg1yp8mc|4||204|20305|1512158222|289117bdc0fffc8b9e47bffb4dde8ac6|00011855oc03gg1yp8mc|INST_NONE|
+19:58:54||public/tuto/couchpotato/index.html|INST_SYNC|Up|1512158330|acefd06b0355ca46c101a79a247f596a|18003|00011927oc03gg1yp8mc|4||204|18021|1512158222|2deefe900cbdc827193e1f23237852d1|00011927oc03gg1yp8mc|INST_NONE|
+19:58:54||public/tuto/index.html|INST_SYNC|Up|1512158330|c21c040df6bc48bebc70339873fc4bb6|17221|00011854oc03gg1yp8mc|4||204|17239|1512158222|e7776c395a863425ffb7ac2087e1dc89|00011854oc03gg1yp8mc|INST_NONE|
+19:58:54||public/tuto/letsencrypt/index.html|INST_SYNC|Up|1512158330|ffc53627efa59b88aaba16e93b912070|18090|00011900oc03gg1yp8mc|4||204|18117|1512158222|47a562a368ed7a9c9238d0994c79dbbe|00011900oc03gg1yp8mc|INST_NONE|
+19:58:55||public/tuto/sickrage/index.html|INST_SYNC|Up|1512158330|a032cef6ae1706c1cb69f30ca18295cd|18002|00011928oc03gg1yp8mc|4||204|18043|1512158222|d3785369c038e375b1d5422df1d6d033|00011928oc03gg1yp8mc|INST_NONE|
+#=#=#=# Syncrun finished 2017-12-01T20:58:54 (last step: 1789 msec, total: 2354 msec)
+#=#=#=# Syncrun started 2017-12-01T20:59:31
+#=#=#=#=# Propagation starts 2017-12-01T20:59:32 (last step: 1038 msec, total: 1038 msec)
+#=#=#=# Syncrun finished 2017-12-01T20:59:32 (last step: 25 msec, total: 1063 msec)

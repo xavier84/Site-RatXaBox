@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Ratxabox"
-baseurl = "http://x-gsm.fr/"
+baseurl = "https://tuto.ratxabox.ovh/"
 # Modifiez le thème pour qu'il soit utilisé par défaut à chaque génération de site.
 theme = "hugo-theme-learn"
 

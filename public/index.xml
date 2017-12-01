@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tuto on Ratxabox</title>
-    <link>http://x-gsm.fr/</link>
+    <link>https://tuto.ratxabox.ovh/</link>
     <description>Recent content in tuto on Ratxabox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Nov 2017 09:16:30 +0100</lastBuildDate>
     
-	<atom:link href="http://x-gsm.fr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tuto.ratxabox.ovh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ratxabox</title>
-      <link>http://x-gsm.fr/ratxabox/ratxabox/</link>
+      <link>https://tuto.ratxabox.ovh/ratxabox/ratxabox/</link>
       <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
       
-      <guid>http://x-gsm.fr/ratxabox/ratxabox/</guid>
+      <guid>https://tuto.ratxabox.ovh/ratxabox/ratxabox/</guid>
       <description>Script d&amp;rsquo;installation ruTorrent / Nginx  Multi-utilisateurs &amp;amp; Multilingue automatique en fonction de l&amp;rsquo;installation du serveur Français, English, German, Pусский, Español, Português Nécessite Debian 7 ou 8 (32&amp;frasl;64 bits) &amp;amp; un serveur fraîchement installé
  Inclus VsFTPd (ftp &amp;amp; ftps sur le port 21), Fail2ban (avec conf nginx, ftp &amp;amp; ssh)
  Seedbox-Manager, Auteurs: Magicalex, Hydrog3n et Backtoback
@@ -25,10 +25,10 @@
     
     <item>
       <title>letsenc</title>
-      <link>http://x-gsm.fr/tuto/ratxabox-mondedie/</link>
+      <link>https://tuto.ratxabox.ovh/tuto/ratxabox-mondedie/</link>
       <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
       
-      <guid>http://x-gsm.fr/tuto/ratxabox-mondedie/</guid>
+      <guid>https://tuto.ratxabox.ovh/tuto/ratxabox-mondedie/</guid>
       <description> Installation de letsenc sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
 ./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
 ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start

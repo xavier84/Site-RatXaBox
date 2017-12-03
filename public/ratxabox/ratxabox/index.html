@@ -13,17 +13,17 @@
     <title>Ratxabox :: Ratxabox</title>
     
     
-    <link href="/css/nucleus.css?1512287331" rel="stylesheet">
-    <link href="/css/font-awesome.min.css?1512287331" rel="stylesheet">
-    <link href="/css/hybrid.css?1512287331" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1512287331" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1512287331" rel="stylesheet">
-    <link href="/css/auto-complete.css?1512287331" rel="stylesheet">
-    <link href="/css/theme.css?1512287331" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1512287331" rel="stylesheet">
+    <link href="/css/nucleus.css?1512293908" rel="stylesheet">
+    <link href="/css/font-awesome.min.css?1512293908" rel="stylesheet">
+    <link href="/css/hybrid.css?1512293908" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1512293908" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1512293908" rel="stylesheet">
+    <link href="/css/auto-complete.css?1512293908" rel="stylesheet">
+    <link href="/css/theme.css?1512293908" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1512293908" rel="stylesheet">
     
 
-    <script src="/js/jquery-2.x.min.js?1512287331"></script>
+    <script src="/js/jquery-2.x.min.js?1512293908"></script>
     
     <style type="text/css">
       :root #header + #content > #left > #rlblock_left{ 
@@ -68,14 +68,14 @@
     <span data-search-clear=""><i class="fa fa-close"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1512287331"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1512287331"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1512293908"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1512293908"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/tuto.ratxabox.ovh\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1512287331"></script>
+<script type="text/javascript" src="/js/search.js?1512293908"></script>
 
     
   </div>
@@ -326,7 +326,6 @@
 <li>
 <ul>
 <li><a href="#installation-automatique-de-rutorrent-avec-rtorrent">Installation automatique de ruTorrent avec rTorrent</a></li>
-<li><a href="#liens-utiles">Liens utiles</a></li>
 <li><a href="#1-préambule">1. Préambule</a></li>
 <li><a href="#2-installation">2.  Installation</a></li>
 <li><a href="#3-les-options">3.  Les options</a></li>
@@ -359,52 +358,35 @@
 
 <p><img src="https://images.mondedie.fr/eGGF79nV/ALXQCNGT" alt="" /></p>
 
-<p>Salut à tous,</p>
-
-<p>Voici un &ldquo;fork&rdquo; (une copie) du célèbre script <a href="https://mondedie.fr/d/5399-Script-Installation-automatique-ruTorrent-nginx" title="Titre">Bonobox</a> de notre ami @Ex_Rat, par plaisir j’y ai ajouté de nouvelles fonctionnalités:</p>
-
-<ul>
-<li>TARDIStart</li>
-<li>SickRage multi-users</li>
-<li>CouchPotato  multi-users</li>
-<li>Plex  ou emby + icône dans ruTorrent (dans la partie Options)</li>
-<li>Filebot (dans la partie Options)</li>
-<li>Openvpn (dans la partie Options)</li>
-<li>eZ Server Monitor</li>
-<li>Thème QuickBox-Dark par défaut</li>
-<li>Un sous-domaine *****.ratxabox.ovh (sur demande)</li>
-</ul>
-
 <p><strong>Détail du tutoriel:</strong></p>
 
 <ol>
-<li>## Préambule</li>
-<li>## Installation</li>
+<li>Préambule</li>
+<li>Installation</li>
 <li>git-core</li>
 <li>cloner et lancer le script</li>
-<li>## Les options</li>
-
-<li><h2 id="liens-utiles">Liens utiles</h2>
-
-<h2 id="1-préambule">1. Préambule</h2></li>
+<li>Les options</li>
+<li>Liens utiles</li>
 </ol>
 
+<h2 id="1-préambule">1. Préambule</h2>
+
 <ul>
-<li><a href="https://mondedie.fr/d/5399" title="Titre">Bien lire le tuto de Ex_Rat</a> (juste le lire, ne pas exécuter script de ex_rat)</li>
-<li><a href="https://github.com/xavier84/RatXaBox" title="Titre">Dépot RatXaBox</a></li>
+<li><a href="https://mondedie.fr/d/5399" title="Ratxabox">Bien lire le tuto de Ex_Rat</a> (juste le lire, ne pas exécuter script de ex_rat)</li>
+<li><a href="https://github.com/xavier84/RatXaBox" title="Ratxabox">Dépot RatXaBox</a></li>
 </ul>
 
 <h2 id="2-installation">2.  Installation</h2>
 
 <p><em>Mise a jours + installation de Git:</em></p>
 
-<pre><code class="language-r">apt-get update &amp;&amp; apt-get upgrade -y
+<pre><code class="language-bash">apt-get update &amp;&amp; apt-get upgrade -y
 apt-get install git-core -y
 </code></pre>
 
 <p><em>On clone et on lance le script:</em></p>
 
-<pre><code class="language-r">cd /tmp
+<pre><code class="language-bash">cd /tmp
 git clone https://github.com/xavier84/RatXaBox ratxabox
 cd ratxabox
 chmod a+x bonobox.sh &amp;&amp; ./bonobox.sh
@@ -460,7 +442,7 @@ IPserveur/tardistart/admin</li>
 <p>Si vous rencontrez un bug ou tout autre problème, n&rsquo;hésitez pas à me contacter !</p>
 </blockquote>
 
-<p><a href="https://mondedie.fr/d/8717-Discussion-RatXaBox-ruTorrent-avec-rTorrent-Version-Workflow" title="Titre">La discussion se passe ici</a></p>
+<p><a href="https://mondedie.fr/d/8717-Discussion-RatXaBox-ruTorrent-avec-rTorrent-Version-Workflow" title="Ratxabox">La discussion se passe ici</a></p>
 
 <p>Cordialement:
 @Xavier</p>
@@ -472,7 +454,7 @@ IPserveur/tardistart/admin</li>
 
 
         
-        </div> 
+        </div>
         
 
       </div>
@@ -480,7 +462,7 @@ IPserveur/tardistart/admin</li>
     <div id="navigation">
         
         
-        
+
         
             
             
@@ -600,7 +582,7 @@ IPserveur/tardistart/admin</li>
                     
             
         
-        
+
         
 
 
@@ -613,27 +595,22 @@ IPserveur/tardistart/admin</li>
     </div>
 
     </section>
-    
+
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1512287331"></script>
-    <script src="/js/perfect-scrollbar.min.js?1512287331"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1512287331"></script>
-    <script src="/js/jquery.sticky.js?1512287331"></script>
-    <script src="/js/featherlight.min.js?1512287331"></script>
-    <script src="/js/html5shiv-printshiv.min.js?1512287331"></script>
-    <script src="/js/highlight.pack.js?1512287331"></script>
+    <script src="/js/clipboard.min.js?1512293908"></script>
+    <script src="/js/perfect-scrollbar.min.js?1512293908"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1512293908"></script>
+    <script src="/js/jquery.sticky.js?1512293908"></script>
+    <script src="/js/featherlight.min.js?1512293908"></script>
+    <script src="/js/html5shiv-printshiv.min.js?1512293908"></script>
+    <script src="/js/highlight.pack.js?1512293908"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom.71422.js?1512287331"></script>
-    <script src="/js/learn.js?1512287331"></script>
-    <script src="/js/hugo-learn.js?1512287331"></script>
+    <script src="/js/modernizr.custom.71422.js?1512293908"></script>
+    <script src="/js/learn.js?1512293908"></script>
+    <script src="/js/hugo-learn.js?1512293908"></script>
 
-    <link href="/mermaid/mermaid.css?1512287331" type="text/css" rel="stylesheet" />
-    <script src="/mermaid/mermaid.js?1512287331"></script>
-    <script>
-        mermaid.initialize({ startOnLoad: true });
-    </script>
     
 <script type="text/javascript">
   var _paq = _paq || [];
@@ -648,11 +625,6 @@ IPserveur/tardistart/admin</li>
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
-
-
-
-</script>
--->
 
   </body>
 </html>

@@ -4,28 +4,28 @@
 	"title": "Couchpotato",
 	"tags": [],
 	"description": "",
-	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  "
+	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  La discussion se passe ici\n@Xavier\n"
 },
 {
 	"uri": "https://tuto.ratxabox.ovh/tuto/letsencrypt/",
 	"title": "Let&#39;s Encrypt",
 	"tags": [],
 	"description": "",
-	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  "
+	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  La discussion se passe ici\n@Xavier\n"
 },
 {
 	"uri": "https://tuto.ratxabox.ovh/ratxabox/ratxabox/",
 	"title": "Ratxabox",
 	"tags": [],
 	"description": "",
-	"content": " Installation automatique de ruTorrent avec rTorrent Version \u0026ldquo;Seedbox-Manager Workflow\u0026rdquo;\nSalut à tous,\nVoici un \u0026ldquo;fork\u0026rdquo; (une copie) du célèbre script Bonobox de notre ami @Ex_Rat, par plaisir j’y ai ajouté de nouvelles fonctionnalités:\n TARDIStart SickRage multi-users CouchPotato multi-users Plex ou emby + icône dans ruTorrent (dans la partie Options) Filebot (dans la partie Options) Openvpn (dans la partie Options) eZ Server Monitor Thème QuickBox-Dark par défaut Un sous-domaine *****.ratxabox.ovh (sur demande)  Détail du tutoriel:\n ## Préambule ## Installation git-core cloner et lancer le script ## Les options Liens utiles 1. Préambule   Bien lire le tuto de Ex_Rat (juste le lire, ne pas exécuter script de ex_rat) Dépot RatXaBox  2. Installation Mise a jours + installation de Git:\napt-get update \u0026amp;\u0026amp; apt-get upgrade -y apt-get install git-core -y  On clone et on lance le script:\ncd /tmp git clone https://github.com/xavier84/RatXaBox ratxabox cd ratxabox chmod a+x bonobox.sh \u0026amp;\u0026amp; ./bonobox.sh  Il vous suffira de suivre les indications affichées:\n3. Les options Pour installer les options: après le redémarrage du serveur, relancer le script et choisir le numéro 10\nVoici les options supplémentaires disponibles:\n4. Liens utiles Voici les liens pour vous connecter à l\u0026rsquo;interface de vos services:\n TARDIStart : IPserveur/tardistart\n SickRage : IPserveur/sickrage\n CouchPotato : IPserveur/couchpotato\n Plex : IPserveur:32400/web\n Emby : IPserveur:8096\n Esm : IPserveur/esm\n  Partie technique:\n TARDIStart Administraion des liens TARDIStart : IPserveur/tardistart/admin   Si vous rencontrez un bug ou tout autre problème, n\u0026rsquo;hésitez pas à me contacter !\n La discussion se passe ici\nCordialement: @Xavier\n"
+	"content": " Installation automatique de ruTorrent avec rTorrent Version \u0026ldquo;Seedbox-Manager Workflow\u0026rdquo;\nDétail du tutoriel:\n Préambule Installation git-core cloner et lancer le script Les options Liens utiles  1. Préambule  Bien lire le tuto de Ex_Rat (juste le lire, ne pas exécuter script de ex_rat) Dépot RatXaBox  2. Installation Mise a jours + installation de Git:\napt-get update \u0026amp;\u0026amp; apt-get upgrade -y apt-get install git-core -y  On clone et on lance le script:\ncd /tmp git clone https://github.com/xavier84/RatXaBox ratxabox cd ratxabox chmod a+x bonobox.sh \u0026amp;\u0026amp; ./bonobox.sh  Il vous suffira de suivre les indications affichées:\n3. Les options Pour installer les options: après le redémarrage du serveur, relancer le script et choisir le numéro 10\nVoici les options supplémentaires disponibles:\n4. Liens utiles Voici les liens pour vous connecter à l\u0026rsquo;interface de vos services:\n TARDIStart : IPserveur/tardistart\n SickRage : IPserveur/sickrage\n CouchPotato : IPserveur/couchpotato\n Plex : IPserveur:32400/web\n Emby : IPserveur:8096\n Esm : IPserveur/esm\n  Partie technique:\n TARDIStart Administraion des liens TARDIStart : IPserveur/tardistart/admin   Si vous rencontrez un bug ou tout autre problème, n\u0026rsquo;hésitez pas à me contacter !\n La discussion se passe ici\nCordialement: @Xavier\n"
 },
 {
 	"uri": "https://tuto.ratxabox.ovh/tuto/sickrage/",
 	"title": "Sickrage",
 	"tags": [],
 	"description": "",
-	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  "
+	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  La discussion se passe ici\n@Xavier\n"
 },
 {
 	"uri": "https://tuto.ratxabox.ovh/",
@@ -39,7 +39,7 @@
 	"title": "Installation de RatXaBox",
 	"tags": [],
 	"description": "",
-	"content": " Chapter 1 Une seedbox comment ça marche Une seedbox est un outil très prisé\n"
+	"content": " Script RatXaBox Une seedbox Salut à tous,\nVoici un \u0026ldquo;fork\u0026rdquo; (une copie) du célèbre script Bonobox de notre ami @Ex_Rat, par plaisir j’y ai ajouté de nouvelles fonctionnalités:\n TARDIStart SickRage multi-users CouchPotato multi-users Plex ou emby + icône dans ruTorrent (dans la partie Options) Filebot (dans la partie Options) Openvpn (dans la partie Options) eZ Server Monitor Thème QuickBox-Dark par défaut Un sous-domaine *****.ratxabox.ovh (sur demande)  "
 },
 {
 	"uri": "https://tuto.ratxabox.ovh/tuto/",

@@ -13,17 +13,17 @@
     <title>Let&#39;s Encrypt :: Ratxabox</title>
     
     
-    <link href="/css/nucleus.css?1512287331" rel="stylesheet">
-    <link href="/css/font-awesome.min.css?1512287331" rel="stylesheet">
-    <link href="/css/hybrid.css?1512287331" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1512287331" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1512287331" rel="stylesheet">
-    <link href="/css/auto-complete.css?1512287331" rel="stylesheet">
-    <link href="/css/theme.css?1512287331" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1512287331" rel="stylesheet">
+    <link href="/css/nucleus.css?1512293908" rel="stylesheet">
+    <link href="/css/font-awesome.min.css?1512293908" rel="stylesheet">
+    <link href="/css/hybrid.css?1512293908" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1512293908" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1512293908" rel="stylesheet">
+    <link href="/css/auto-complete.css?1512293908" rel="stylesheet">
+    <link href="/css/theme.css?1512293908" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1512293908" rel="stylesheet">
     
 
-    <script src="/js/jquery-2.x.min.js?1512287331"></script>
+    <script src="/js/jquery-2.x.min.js?1512293908"></script>
     
     <style type="text/css">
       :root #header + #content > #left > #rlblock_left{ 
@@ -68,14 +68,14 @@
     <span data-search-clear=""><i class="fa fa-close"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1512287331"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1512287331"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1512293908"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1512293908"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/tuto.ratxabox.ovh\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1512287331"></script>
+<script type="text/javascript" src="/js/search.js?1512293908"></script>
 
     
   </div>
@@ -350,7 +350,7 @@
 
 <h2 id="installation-de-let-s-encrypt-sur-le-script-ratxabox">Installation de Let&rsquo;s Encrypt sur le script ratxabox</h2>
 
-<pre><code>service nginx stop
+<pre><code class="language-bash">service nginx stop
 cd /tmp
 wget https://dl.eff.org/certbot-auto
 chmod a+x ./certbot-auto
@@ -358,7 +358,7 @@ chmod a+x ./certbot-auto
 
 <p>change par ton domain</p>
 
-<pre><code>./certbot-auto certonly        \
+<pre><code class="language-bash">./certbot-auto certonly        \
   --standalone                 \
   --rsa-key-size 4096          \
   --agree-tos                  \
@@ -369,15 +369,19 @@ chmod a+x ./certbot-auto
 
 <p>tu modifi dans</p>
 
-<pre><code>ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem;
+<pre><code class="language-bash">ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem;
 ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
 
 </code></pre>
 
 <p>et un start</p>
 
-<pre><code>service nginx start
+<pre><code class="language-bash">service nginx start
 </code></pre>
+
+<p><a href="https://mondedie.fr/d/8717-Discussion-RatXaBox-ruTorrent-avec-rTorrent-Version-Workflow" title="Ratxabox">La discussion se passe ici</a></p>
+
+<p>@Xavier</p>
 
 
 <footer class=" footline" >
@@ -386,7 +390,7 @@ ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
 
 
         
-        </div> 
+        </div>
         
 
       </div>
@@ -394,8 +398,8 @@ ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
     <div id="navigation">
         
         
+
         
-        
             
             
                 
@@ -439,42 +443,9 @@ ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
                     
                     
 
-                    
-            
-        
                     
             
         
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                    
-
                     
             
         
@@ -492,9 +463,6 @@ ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
                     
                     
 
-                    
-            
-        
                     
                         
             
@@ -515,12 +483,48 @@ ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
             
         
                     
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
             
         
                     
             
         
+                    
+            
         
+
         
 
 
@@ -533,27 +537,22 @@ ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
     </div>
 
     </section>
-    
+
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1512287331"></script>
-    <script src="/js/perfect-scrollbar.min.js?1512287331"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1512287331"></script>
-    <script src="/js/jquery.sticky.js?1512287331"></script>
-    <script src="/js/featherlight.min.js?1512287331"></script>
-    <script src="/js/html5shiv-printshiv.min.js?1512287331"></script>
-    <script src="/js/highlight.pack.js?1512287331"></script>
+    <script src="/js/clipboard.min.js?1512293908"></script>
+    <script src="/js/perfect-scrollbar.min.js?1512293908"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1512293908"></script>
+    <script src="/js/jquery.sticky.js?1512293908"></script>
+    <script src="/js/featherlight.min.js?1512293908"></script>
+    <script src="/js/html5shiv-printshiv.min.js?1512293908"></script>
+    <script src="/js/highlight.pack.js?1512293908"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom.71422.js?1512287331"></script>
-    <script src="/js/learn.js?1512287331"></script>
-    <script src="/js/hugo-learn.js?1512287331"></script>
+    <script src="/js/modernizr.custom.71422.js?1512293908"></script>
+    <script src="/js/learn.js?1512293908"></script>
+    <script src="/js/hugo-learn.js?1512293908"></script>
 
-    <link href="/mermaid/mermaid.css?1512287331" type="text/css" rel="stylesheet" />
-    <script src="/mermaid/mermaid.js?1512287331"></script>
-    <script>
-        mermaid.initialize({ startOnLoad: true });
-    </script>
     
 <script type="text/javascript">
   var _paq = _paq || [];
@@ -568,11 +567,6 @@ ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
-
-
-
-</script>
--->
 
   </body>
 </html>

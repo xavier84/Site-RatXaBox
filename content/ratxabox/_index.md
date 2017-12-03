@@ -6,8 +6,20 @@ chapter = true
 pre = "<b>1. </b>"
 +++
 
-### Chapter 1
+### Script RatXaBox
 
-# Une seedbox comment ça marche
+# Une seedbox
 
-Une seedbox est un outil très prisé
+Salut à tous,
+
+Voici un "fork" (une copie) du célèbre script [Bonobox](https://mondedie.fr/d/5399-Script-Installation-automatique-ruTorrent-nginx "Ratxabox") de notre ami @Ex_Rat, par plaisir j’y ai ajouté de nouvelles fonctionnalités:
+
+* TARDIStart
+* SickRage multi-users
+* CouchPotato  multi-users
+* Plex  ou emby + icône dans ruTorrent (dans la partie Options)
+* Filebot (dans la partie Options)
+* Openvpn (dans la partie Options)
+* eZ Server Monitor
+* Thème QuickBox-Dark par défaut
+* Un sous-domaine *****.ratxabox.ovh (sur demande)

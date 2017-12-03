@@ -17,10 +17,11 @@
       <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
       
       <guid>https://tuto.ratxabox.ovh/tuto/couchpotato/</guid>
-      <description> Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
+      <description>Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
 ./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
 ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
-service nginx start  </description>
+service nginx start  La discussion se passe ici
+@Xavier</description>
     </item>
     
     <item>
@@ -29,10 +30,11 @@ service nginx start  </description>
       <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
       
       <guid>https://tuto.ratxabox.ovh/tuto/letsencrypt/</guid>
-      <description> Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
+      <description>Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
 ./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
 ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
-service nginx start  </description>
+service nginx start  La discussion se passe ici
+@Xavier</description>
     </item>
     
     <item>
@@ -42,9 +44,9 @@ service nginx start  </description>
       
       <guid>https://tuto.ratxabox.ovh/ratxabox/ratxabox/</guid>
       <description>Installation automatique de ruTorrent avec rTorrent Version &amp;ldquo;Seedbox-Manager Workflow&amp;rdquo;
-Salut à tous,
-Voici un &amp;ldquo;fork&amp;rdquo; (une copie) du célèbre script Bonobox de notre ami @Ex_Rat, par plaisir j’y ai ajouté de nouvelles fonctionnalités:
- TARDIStart SickRage multi-users CouchPotato multi-users Plex ou emby + icône dans ruTorrent (dans la partie Options) Filebot (dans la partie Options) Openvpn (dans la partie Options) eZ Server Monitor Thème QuickBox-Dark par défaut Un sous-domaine *****.</description>
+Détail du tutoriel:
+ Préambule Installation git-core cloner et lancer le script Les options Liens utiles  1. Préambule  Bien lire le tuto de Ex_Rat (juste le lire, ne pas exécuter script de ex_rat) Dépot RatXaBox  2. Installation Mise a jours + installation de Git:
+apt-get update &amp;amp;&amp;amp; apt-get upgrade -y apt-get install git-core -y  On clone et on lance le script:</description>
     </item>
     
     <item>
@@ -53,10 +55,11 @@ Voici un &amp;ldquo;fork&amp;rdquo; (une copie) du célèbre script Bonobox de n
       <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
       
       <guid>https://tuto.ratxabox.ovh/tuto/sickrage/</guid>
-      <description> Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
+      <description>Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
 ./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
 ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
-service nginx start  </description>
+service nginx start  La discussion se passe ici
+@Xavier</description>
     </item>
     
   </channel>

@@ -81,9 +81,7 @@ IPserveur/esm
 Administraion des liens TARDIStart :
 IPserveur/tardistart/admin
 
-> Si vous rencontrez un bug ou tout autre problème, n'hésitez pas à me contacter !
-
+{{% notice info %}}
+Si vous rencontrez un bug ou tout autre problème, n'hésitez pas à me contacter !
 [La discussion se passe ici](https://mondedie.fr/d/8717-Discussion-RatXaBox-ruTorrent-avec-rTorrent-Version-Workflow "Ratxabox")
-
-Cordialement:
-@Xavier
+{{% /notice %}}

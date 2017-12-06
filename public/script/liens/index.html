@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
 
-    <title>Let&#39;s Encrypt :: Ratxabox</title>
+    <title>Liens utiles :: Ratxabox</title>
     
     
     <link href="/css/nucleus.css?1512598479" rel="stylesheet">
@@ -33,7 +33,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/tutoriels/letsencrypt/">
+  <body class="" data-url="/script/liens/">
     <nav id="sidebar" class="showVisitedLinks">
 
 
@@ -75,7 +75,7 @@
   
     
     <li data-nav-id="/script/" title="Intro RatXaBox" class="dd-item 
-        
+        parent
         
         
         ">
@@ -120,7 +120,7 @@
  
   
     
-      <li data-nav-id="/script/liens/" title="Liens utiles" class="dd-item ">
+      <li data-nav-id="/script/liens/" title="Liens utiles" class="dd-item active">
         <a href="/script/liens/">
         Liens utiles
         <i class="fa fa-check read-icon"></i>
@@ -147,7 +147,7 @@
   
     
     <li data-nav-id="/tutoriels/" title="Tutoriel " class="dd-item 
-        parent
+        
         
         
         ">
@@ -192,7 +192,7 @@
  
   
     
-      <li data-nav-id="/tutoriels/letsencrypt/" title="Let&#39;s Encrypt" class="dd-item active">
+      <li data-nav-id="/tutoriels/letsencrypt/" title="Let&#39;s Encrypt" class="dd-item ">
         <a href="/tutoriels/letsencrypt/">
         Let&#39;s Encrypt
         <i class="fa fa-check read-icon"></i>
@@ -282,7 +282,7 @@
                   
                   
                   <div id="top-github-link">
-                    <a class="github-link" title='Modifier la page' href="https://github.com/xavier84/Site-RatXaBox/edit/master/content/tutoriels/letsencrypt.md" target="blank">
+                    <a class="github-link" title='Modifier la page' href="https://github.com/xavier84/Site-RatXaBox/edit/master/content/script/liens.md" target="blank">
                       <i class="fa fa-code-fork"></i>
                       <span id="top-github-link-text">Modifier la page</span>
                     </a>
@@ -311,7 +311,7 @@
             
           
           
-            <a href='/'>Accueil</a> > <a href='/tutoriels/'>Tutoriel </a> > Let's Encrypt
+            <a href='/'>Accueil</a> > <a href='/script/'>Intro RatXaBox</a> > Liens utiles
           
          
           
@@ -327,7 +327,7 @@
 <ul>
 <li>
 <ul>
-<li><a href="#installation-de-let-s-encrypt-sur-le-script-ratxabox">Installation de Let&rsquo;s Encrypt sur le script ratxabox</a></li>
+<li><a href="#liens-utiles">Liens utiles</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -342,7 +342,7 @@
         
         <div id="body-inner">
           
-            <h1>Let&#39;s Encrypt</h1>
+            <h1>Liens utiles</h1>
           
 
         
@@ -350,36 +350,29 @@
 
 
 
-<h2 id="installation-de-let-s-encrypt-sur-le-script-ratxabox">Installation de Let&rsquo;s Encrypt sur le script ratxabox</h2>
+<h2 id="liens-utiles">Liens utiles</h2>
 
-<pre><code class="language-bash">service nginx stop
-cd /tmp
-wget https://dl.eff.org/certbot-auto
-chmod a+x ./certbot-auto
-</code></pre>
+<p><em>Voici les liens pour vous connecter à l&rsquo;interface de vos services:</em></p>
 
-<p>change par ton domain</p>
+<ul>
+<li><p>TARDIStart :
+IPserveur/tardistart</p></li>
 
-<pre><code class="language-bash">./certbot-auto certonly        \
-  --standalone                 \
-  --rsa-key-size 4096          \
-  --agree-tos                  \
-  --email john.doe@mondedie.fr \
-  --domains mondedie.fr        \
-  --domains www.mondedie.fr
-</code></pre>
+<li><p>SickRage :
+IPserveur/sickrage</p></li>
 
-<p>tu modifi dans</p>
+<li><p>CouchPotato :
+IPserveur/couchpotato</p></li>
 
-<pre><code class="language-bash">ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem;
-ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
+<li><p>Plex :
+IPserveur:32400/web</p></li>
 
-</code></pre>
+<li><p>Emby :
+IPserveur:8096</p></li>
 
-<p>et un start</p>
-
-<pre><code class="language-bash">service nginx start
-</code></pre>
+<li><p>Esm :
+IPserveur/esm</p></li>
+</ul>
 
 <div class="notices info" ><p>Si vous rencontrez un bug ou tout autre problème, n&rsquo;hésitez pas à me contacter !
 <a href="https://mondedie.fr/d/8717-Discussion-RatXaBox-ruTorrent-avec-rTorrent-Version-Workflow" title="Ratxabox">La discussion se passe ici</a></p>
@@ -423,57 +416,6 @@ ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
             
                 
                     
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
                     
                 
                 
@@ -519,6 +461,9 @@ ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
             
         
                     
+            
+        
+                    
                         
             
             
@@ -535,23 +480,68 @@ ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
                     
 
                     
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
             
         
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
                     
             
         
                     
             
         
-
+                    
+            
         
 
+        
+
 
         
-            <a class="nav nav-prev" href="/tutoriels/couchpotato/" title="Couchpotato"> <i class="fa fa-chevron-left"></i></a>
+            <a class="nav nav-prev" href="/script/ratxabox/" title="Installation Ratxabox"> <i class="fa fa-chevron-left"></i></a>
         
         
-            <a class="nav nav-next" href="/tutoriels/sickrage/" title="Sickrage" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+            <a class="nav nav-next" href="/tutoriels/" title="Tutoriel " style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
         
     </div>
 

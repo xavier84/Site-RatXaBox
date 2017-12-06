@@ -16,7 +16,6 @@ weight = 5
 * git-core
 * cloner et lancer le script
 * Les options
-* Liens utiles
 
 
 ## 1. Préambule
@@ -51,35 +50,6 @@ Pour installer les options: après le redémarrage du serveur, relancer le scrip
 *Voici les options supplémentaires disponibles:*
 
 ![Google logo](https://cloud.llamasweet.tech/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=543&a=true&file=options%25C3%25A9tendues.jpg&t=GAKD2pGwgBIkhB9&scalingup=0 "google logo")
-
-## 4. Liens utiles
-
-*Voici les liens pour vous connecter à l'interface de vos services:*
-
-* TARDIStart :
-IPserveur/tardistart
-
-* SickRage :
-IPserveur/sickrage
-
-* CouchPotato :
-IPserveur/couchpotato
-
-* Plex :
-IPserveur:32400/web
-
-* Emby :
-IPserveur:8096
-
-* Esm :
-IPserveur/esm
-
-
-*Partie technique:*
-
-- TARDIStart
-Administraion des liens TARDIStart :
-IPserveur/tardistart/admin
 
 {{% notice info %}}
 Si vous rencontrez un bug ou tout autre problème, n'hésitez pas à me contacter !

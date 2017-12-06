@@ -31,7 +31,7 @@ service nginx start  Si vous rencontrez un bug ou tout autre problème, n&amp;rs
       <guid>https://tuto.ratxabox.ovh/script/ratxabox/</guid>
       <description>Installation automatique de ruTorrent avec rTorrent Version &amp;ldquo;Seedbox-Manager Workflow&amp;rdquo;
 Détail du tutoriel:
- Préambule Installation git-core cloner et lancer le script Les options Liens utiles  1. Préambule  Bien lire le tuto de Ex_Rat (juste le lire, ne pas exécuter script de ex_rat) Dépot RatXaBox  2. Installation Mise a jours + installation de Git:
+ Préambule Installation git-core cloner et lancer le script Les options  1. Préambule  Bien lire le tuto de Ex_Rat (juste le lire, ne pas exécuter script de ex_rat) Dépot RatXaBox  2. Installation Mise a jours + installation de Git:
 apt-get update &amp;amp;&amp;amp; apt-get upgrade -y apt-get install git-core -y  On clone et on lance le script:</description>
     </item>
     
@@ -45,6 +45,23 @@ apt-get update &amp;amp;&amp;amp; apt-get upgrade -y apt-get install git-core -y
 ./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
 ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
 service nginx start  Si vous rencontrez un bug ou tout autre problème, n&amp;rsquo;hésitez pas à me contacter !</description>
+    </item>
+    
+    <item>
+      <title>Liens utiles</title>
+      <link>https://tuto.ratxabox.ovh/script/liens/</link>
+      <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
+      
+      <guid>https://tuto.ratxabox.ovh/script/liens/</guid>
+      <description> Liens utiles Voici les liens pour vous connecter à l&amp;rsquo;interface de vos services:
+ TARDIStart : IPserveur/tardistart
+ SickRage : IPserveur/sickrage
+ CouchPotato : IPserveur/couchpotato
+ Plex : IPserveur:32400/web
+ Emby : IPserveur:8096
+ Esm : IPserveur/esm
+  Si vous rencontrez un bug ou tout autre problème, n&amp;rsquo;hésitez pas à me contacter ! La discussion se passe ici
+ </description>
     </item>
     
     <item>

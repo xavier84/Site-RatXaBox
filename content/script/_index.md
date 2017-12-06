@@ -1,12 +1,12 @@
 +++
-title = "Installation de RatXaBox"
+title = "Intro RatXaBox"
 date = 2017-11-26T09:16:30+01:00
 weight = 8
 chapter = true
 pre = "<b>1. </b>"
 +++
 
-### Script RatXaBox
+### Introduction RatXaBox
 
 # Une seedbox
 

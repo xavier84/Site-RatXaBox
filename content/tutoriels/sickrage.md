@@ -38,6 +38,7 @@ et un start
 service nginx start
 ```
 
+{{% notice info %}}
+Si vous rencontrez un bug ou tout autre problème, n'hésitez pas à me contacter !
 [La discussion se passe ici](https://mondedie.fr/d/8717-Discussion-RatXaBox-ruTorrent-avec-rTorrent-Version-Workflow "Ratxabox")
-
-@Xavier
+{{% /notice %}}

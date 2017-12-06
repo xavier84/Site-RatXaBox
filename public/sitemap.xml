@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tuto.ratxabox.ovh/tuto/couchpotato/</loc>
+    <loc>https://tuto.ratxabox.ovh/tutoriels/couchpotato/</loc>
     <lastmod>2017-11-26T09:17:16+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tuto.ratxabox.ovh/tuto/letsencrypt/</loc>
+    <loc>https://tuto.ratxabox.ovh/script/ratxabox/</loc>
     <lastmod>2017-11-26T09:17:16+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tuto.ratxabox.ovh/ratxabox/ratxabox/</loc>
+    <loc>https://tuto.ratxabox.ovh/tutoriels/letsencrypt/</loc>
     <lastmod>2017-11-26T09:17:16+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tuto.ratxabox.ovh/tuto/sickrage/</loc>
+    <loc>https://tuto.ratxabox.ovh/tutoriels/sickrage/</loc>
     <lastmod>2017-11-26T09:17:16+01:00</lastmod>
   </url>
   
@@ -28,12 +28,12 @@
   </url>
   
   <url>
-    <loc>https://tuto.ratxabox.ovh/ratxabox/</loc>
+    <loc>https://tuto.ratxabox.ovh/script/</loc>
     <lastmod>2017-11-26T09:16:30+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tuto.ratxabox.ovh/tuto/</loc>
+    <loc>https://tuto.ratxabox.ovh/tutoriels/</loc>
     <lastmod>2017-11-26T09:16:30+01:00</lastmod>
   </url>
   

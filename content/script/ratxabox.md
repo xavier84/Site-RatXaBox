@@ -1,5 +1,5 @@
 +++
-title = "Ratxabox"
+title = "Installation Ratxabox"
 date =  2017-11-26T09:17:16+01:00
 weight = 5
 +++
@@ -7,7 +7,7 @@ weight = 5
 ## Installation automatique de ruTorrent avec rTorrent
 *Version "Seedbox-Manager Workflow"*
 
-![](https://images.mondedie.fr/eGGF79nV/ALXQCNGT)
+![](/images/ratxabox.png)
 
 **Détail du tutoriel:**
 

@@ -10,14 +10,14 @@ theme = "hugo-theme-learn"
   # Autheur du site, est utilisé dans les informations meta
   author = "Xavier"
   # Description du site, est utilisé dans les informations meta
-  description = "Documentation for Hugo Learn Theme"
+  description = "Documentation pour RatXaBox"
   # Affiche une icône lorsque la page a été visitée
   showVisitedLinks = true
   # Désactive la fonction de recherche. Une valeur à true cache la barre de recherche.
   disableSearch = false
   # Par défaut, le cache Javascript et CSS est automatiquement vidé lorsqu'une nouvelle version du site est générée.
   # Utilisez ce paramètre lorsque vous voulez désactiver ce comportement (c'est parfois incompatible avec certains proxys)
-  disableAssetsBusting = false
+  disableAssetsBusting = true
   # Utilisez ce paramètre pour désactiver le bouton copy-to-clipboard pour le code formatté sur une ligne.
   disableInlineCopyToClipBoard = false
   # Un titre est défini par défaut lorsque vous utilisez un raccourci dans le menu. Utilisez ce paramètre pour le cacher.

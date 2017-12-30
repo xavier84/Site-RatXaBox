@@ -1,6 +1,6 @@
 +++
-title = "Sickrage"
-date =  2017-12-22T09:17:16+01:00
+title = "Optimiser le processeur"
+date =  2017-12-12T09:17:16+01:00
 weight = 5
 +++
 
@@ -8,7 +8,7 @@ weight = 5
 
 ## Installation de Let's Encrypt sur le script ratxabox
 
-```bash
+```
 service nginx stop
 cd /tmp
 wget https://dl.eff.org/certbot-auto

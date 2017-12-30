@@ -12,11 +12,59 @@
     
     
     <item>
+      <title>Sickrage</title>
+      <link>https://tuto.ratxabox.ovh/tutoriels/sickrage/</link>
+      <pubDate>Fri, 22 Dec 2017 09:17:16 +0100</pubDate>
+      
+      <guid>https://tuto.ratxabox.ovh/tutoriels/sickrage/</guid>
+      <description>Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
+./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
+ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
+service nginx start  Si vous rencontrez un bug ou tout autre problème, n&amp;rsquo;hésitez pas à me contacter !</description>
+    </item>
+    
+    <item>
       <title>Couchpotato</title>
       <link>https://tuto.ratxabox.ovh/tutoriels/couchpotato/</link>
-      <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
+      <pubDate>Thu, 21 Dec 2017 09:17:16 +0100</pubDate>
       
       <guid>https://tuto.ratxabox.ovh/tutoriels/couchpotato/</guid>
+      <description>Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
+./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
+ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
+service nginx start  Si vous rencontrez un bug ou tout autre problème, n&amp;rsquo;hésitez pas à me contacter !</description>
+    </item>
+    
+    <item>
+      <title>eZ Server Monitor</title>
+      <link>https://tuto.ratxabox.ovh/tutoriels/esm/</link>
+      <pubDate>Tue, 19 Dec 2017 09:17:16 +0100</pubDate>
+      
+      <guid>https://tuto.ratxabox.ovh/tutoriels/esm/</guid>
+      <description>Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
+./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
+ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
+service nginx start  Si vous rencontrez un bug ou tout autre problème, n&amp;rsquo;hésitez pas à me contacter !</description>
+    </item>
+    
+    <item>
+      <title>Optimiser le processeur</title>
+      <link>https://tuto.ratxabox.ovh/tutoriels/optimiser-le-processeur/</link>
+      <pubDate>Tue, 12 Dec 2017 09:17:16 +0100</pubDate>
+      
+      <guid>https://tuto.ratxabox.ovh/tutoriels/optimiser-le-processeur/</guid>
+      <description>Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
+./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
+ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
+service nginx start  Si vous rencontrez un bug ou tout autre problème, n&amp;rsquo;hésitez pas à me contacter !</description>
+    </item>
+    
+    <item>
+      <title>Medusa</title>
+      <link>https://tuto.ratxabox.ovh/tutoriels/medusa/</link>
+      <pubDate>Mon, 11 Dec 2017 09:17:16 +0100</pubDate>
+      
+      <guid>https://tuto.ratxabox.ovh/tutoriels/medusa/</guid>
       <description>Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
 ./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
 ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
@@ -54,26 +102,16 @@ service nginx start  Si vous rencontrez un bug ou tout autre problème, n&amp;rs
       
       <guid>https://tuto.ratxabox.ovh/script/liens/</guid>
       <description> Liens utiles Voici les liens pour vous connecter à l&amp;rsquo;interface de vos services:
- TARDIStart : IPserveur/tardistart
+ Medusa : IPserveur/medusa
  SickRage : IPserveur/sickrage
  CouchPotato : IPserveur/couchpotato
+ Syncthing : IPserveur/syncthing
+ Jackett : IPserveur/jackett
  Plex : IPserveur:32400/web
  Emby : IPserveur:8096
  Esm : IPserveur/esm
   Si vous rencontrez un bug ou tout autre problème, n&amp;rsquo;hésitez pas à me contacter ! La discussion se passe ici
  </description>
-    </item>
-    
-    <item>
-      <title>Sickrage</title>
-      <link>https://tuto.ratxabox.ovh/tutoriels/sickrage/</link>
-      <pubDate>Sun, 26 Nov 2017 09:17:16 +0100</pubDate>
-      
-      <guid>https://tuto.ratxabox.ovh/tutoriels/sickrage/</guid>
-      <description>Installation de Let&amp;rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain
-./certbot-auto certonly \ --standalone \ --rsa-key-size 4096 \ --agree-tos \ --email john.doe@mondedie.fr \ --domains mondedie.fr \ --domains www.mondedie.fr  tu modifi dans
-ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start
-service nginx start  Si vous rencontrez un bug ou tout autre problème, n&amp;rsquo;hésitez pas à me contacter !</description>
     </item>
     
   </channel>

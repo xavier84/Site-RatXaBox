@@ -9,14 +9,20 @@ weight = 5
 
 *Voici les liens pour vous connecter à l'interface de vos services:*
 
-* TARDIStart :
-IPserveur/tardistart
+* Medusa :
+IPserveur/medusa
 
 * SickRage :
 IPserveur/sickrage
 
 * CouchPotato :
 IPserveur/couchpotato
+
+* Syncthing :
+IPserveur/syncthing
+
+* Jackett :
+IPserveur/jackett
 
 * Plex :
 IPserveur:32400/web

@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tuto.ratxabox.ovh/tutoriels/sickrage/</loc>
+    <lastmod>2017-12-22T09:17:16+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tuto.ratxabox.ovh/tutoriels/couchpotato/</loc>
-    <lastmod>2017-11-26T09:17:16+01:00</lastmod>
+    <lastmod>2017-12-21T09:17:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tuto.ratxabox.ovh/tutoriels/esm/</loc>
+    <lastmod>2017-12-19T09:17:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tuto.ratxabox.ovh/tutoriels/optimiser-le-processeur/</loc>
+    <lastmod>2017-12-12T09:17:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tuto.ratxabox.ovh/tutoriels/medusa/</loc>
+    <lastmod>2017-12-11T09:17:16+01:00</lastmod>
   </url>
   
   <url>
@@ -19,11 +39,6 @@
   
   <url>
     <loc>https://tuto.ratxabox.ovh/script/liens/</loc>
-    <lastmod>2017-11-26T09:17:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tuto.ratxabox.ovh/tutoriels/sickrage/</loc>
     <lastmod>2017-11-26T09:17:16+01:00</lastmod>
   </url>
   

@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
 
-    <title>Accueil :: Ratxabox</title>
+    <title>Medusa :: Ratxabox</title>
     
     
     <link href="/css/nucleus.css?1514622557" rel="stylesheet">
@@ -33,7 +33,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/">
+  <body class="" data-url="/tutoriels/medusa/">
     <nav id="sidebar" class="showVisitedLinks">
 
 
@@ -147,7 +147,7 @@
   
     
     <li data-nav-id="/tutoriels/" title="Tutoriel " class="dd-item 
-        
+        parent
         
         
         ">
@@ -249,7 +249,7 @@
  
   
     
-      <li data-nav-id="/tutoriels/medusa/" title="Medusa" class="dd-item ">
+      <li data-nav-id="/tutoriels/medusa/" title="Medusa" class="dd-item active">
         <a href="/tutoriels/medusa/">
         Medusa
         <i class="fa fa-check read-icon"></i>
@@ -342,31 +342,123 @@
         <div id="overlay"></div>
         <div class="padding highlightable">
               
+              <div>
+                <div id="top-bar">
+                
+                  
+                  
+                  
+                  <div id="top-github-link">
+                    <a class="github-link" title='Modifier la page' href="https://github.com/xavier84/Site-RatXaBox/edit/master/content/tutoriels/medusa.md" target="blank">
+                      <i class="fa fa-code-fork"></i>
+                      <span id="top-github-link-text">Modifier la page</span>
+                    </a>
+                  </div>
+                  
+                
+                
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fa fa-bars"></i>
+                        </a>
+                    </span>
+                  
+                  <span id="toc-menu"><i class="fa fa-list-alt"></i></span>
+                  
+                  <span class="links">
+                    
+          
+          
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'>Accueil</a> > <a href='/tutoriels/'>Tutoriel </a> > Medusa
+          
+         
+          
+         
+          
+           
+                  </span>
+                </div>
+                
+                    <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#installation-de-let-s-encrypt-sur-le-script-ratxabox">Installation de Let&rsquo;s Encrypt sur le script ratxabox</a></li>
+</ul></li>
+</ul>
+</nav>
+    </div>
+</div>
+
+                
+              </div>
+            </div>
+            
 
         
-          <div id="chapter">
-        
         <div id="body-inner">
+          
+            <h1>Medusa</h1>
           
 
         
 
-<span id="sidebar-toggle-span">
-<a href="#" id="sidebar-toggle" data-sidebar-toggle=""><i class="fa fa-bars"></i> navigation</a>
-</span>
-
- 
 
 
-<h3 id="accueil">Accueil</h3>
 
-<h1 id="pourquoi-faire-un-site">Pourquoi faire un site</h1>
+<h2 id="installation-de-let-s-encrypt-sur-le-script-ratxabox">Installation de Let&rsquo;s Encrypt sur le script ratxabox</h2>
 
-<p>hulhuobuiyloyo</p>
+<pre><code>service nginx stop
+cd /tmp
+wget https://dl.eff.org/certbot-auto
+chmod a+x ./certbot-auto
+</code></pre>
+
+<p>change par ton domain</p>
+
+<pre><code>./certbot-auto certonly        \
+  --standalone                 \
+  --rsa-key-size 4096          \
+  --agree-tos                  \
+  --email john.doe@mondedie.fr \
+  --domains mondedie.fr        \
+  --domains www.mondedie.fr
+</code></pre>
+
+<p>tu modifi dans</p>
+
+<pre><code>ssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;
+
+</code></pre>
+
+<p>et un start</p>
+
+<pre><code>service nginx start
+</code></pre>
+
+<div class="notices info" ><p>Si vous rencontrez un bug ou tout autre problème, n&rsquo;hésitez pas à me contacter !
+<a href="https://mondedie.fr/d/8717-Discussion-RatXaBox-ruTorrent-avec-rTorrent-Version-Workflow" title="Ratxabox">La discussion se passe ici</a></p>
+</div>
+
+
+
+<footer class=" footline" >
 	
-  
-        
-            </div> 
+</footer>
+
+
         
         </div>
         
@@ -449,6 +541,7 @@
             
                 
                     
+                    
                 
                 
 
@@ -456,6 +549,25 @@
                     
                     
 
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
                     
                         
             
@@ -510,21 +622,6 @@
             
                 
                     
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
                     
                 
                 
@@ -542,6 +639,9 @@
             
                 
                     
+                        
+                        
+                    
                 
                 
 
@@ -563,8 +663,10 @@
 
 
         
+            <a class="nav nav-prev" href="/tutoriels/optimiser-le-processeur/" title="Optimiser le processeur"> <i class="fa fa-chevron-left"></i></a>
         
-            <a class="nav nav-next" href="/script/" title="Script RatXaBox" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+        
+            <a class="nav nav-next" href="/tutoriels/letsencrypt/" title="Let&#39;s Encrypt" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
         
     </div>
 
@@ -602,3 +704,4 @@
 
   </body>
 </html>
+

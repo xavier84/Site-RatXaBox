@@ -5,8 +5,5 @@ weight = 10
 pre = "<b>2. </b>"
 +++
 
-### Chapter 2
-
-# Some Chapter title
 
 Voici une liste de tuto compatible juste pour Ratxabox

@@ -1,7 +1,35 @@
 [
 {
+	"uri": "https://tuto.ratxabox.ovh/tutoriels/sickrage/",
+	"title": "Sickrage",
+	"tags": [],
+	"description": "",
+	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  Si vous rencontrez un bug ou tout autre problème, n\u0026rsquo;hésitez pas à me contacter ! La discussion se passe ici\n "
+},
+{
 	"uri": "https://tuto.ratxabox.ovh/tutoriels/couchpotato/",
 	"title": "Couchpotato",
+	"tags": [],
+	"description": "",
+	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  Si vous rencontrez un bug ou tout autre problème, n\u0026rsquo;hésitez pas à me contacter ! La discussion se passe ici\n "
+},
+{
+	"uri": "https://tuto.ratxabox.ovh/tutoriels/esm/",
+	"title": "eZ Server Monitor",
+	"tags": [],
+	"description": "",
+	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  Si vous rencontrez un bug ou tout autre problème, n\u0026rsquo;hésitez pas à me contacter ! La discussion se passe ici\n "
+},
+{
+	"uri": "https://tuto.ratxabox.ovh/tutoriels/optimiser-le-processeur/",
+	"title": "Optimiser le processeur",
+	"tags": [],
+	"description": "",
+	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  Si vous rencontrez un bug ou tout autre problème, n\u0026rsquo;hésitez pas à me contacter ! La discussion se passe ici\n "
+},
+{
+	"uri": "https://tuto.ratxabox.ovh/tutoriels/medusa/",
+	"title": "Medusa",
 	"tags": [],
 	"description": "",
 	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  Si vous rencontrez un bug ou tout autre problème, n\u0026rsquo;hésitez pas à me contacter ! La discussion se passe ici\n "
@@ -25,14 +53,7 @@
 	"title": "Liens utiles",
 	"tags": [],
 	"description": "",
-	"content": " Liens utiles Voici les liens pour vous connecter à l\u0026rsquo;interface de vos services:\n TARDIStart : IPserveur/tardistart\n SickRage : IPserveur/sickrage\n CouchPotato : IPserveur/couchpotato\n Plex : IPserveur:32400/web\n Emby : IPserveur:8096\n Esm : IPserveur/esm\n  Si vous rencontrez un bug ou tout autre problème, n\u0026rsquo;hésitez pas à me contacter ! La discussion se passe ici\n "
-},
-{
-	"uri": "https://tuto.ratxabox.ovh/tutoriels/sickrage/",
-	"title": "Sickrage",
-	"tags": [],
-	"description": "",
-	"content": " Installation de Let\u0026rsquo;s Encrypt sur le script ratxabox service nginx stop cd /tmp wget https://dl.eff.org/certbot-auto chmod a+x ./certbot-auto  change par ton domain\n./certbot-auto certonly \\ --standalone \\ --rsa-key-size 4096 \\ --agree-tos \\ --email john.doe@mondedie.fr \\ --domains mondedie.fr \\ --domains www.mondedie.fr  tu modifi dans\nssl_certificate /etc/letsencrypt/live/www.votresite.fr/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.votresite.fr/privkey.pem;  et un start\nservice nginx start  Si vous rencontrez un bug ou tout autre problème, n\u0026rsquo;hésitez pas à me contacter ! La discussion se passe ici\n "
+	"content": " Liens utiles Voici les liens pour vous connecter à l\u0026rsquo;interface de vos services:\n Medusa : IPserveur/medusa\n SickRage : IPserveur/sickrage\n CouchPotato : IPserveur/couchpotato\n Syncthing : IPserveur/syncthing\n Jackett : IPserveur/jackett\n Plex : IPserveur:32400/web\n Emby : IPserveur:8096\n Esm : IPserveur/esm\n  Si vous rencontrez un bug ou tout autre problème, n\u0026rsquo;hésitez pas à me contacter ! La discussion se passe ici\n "
 },
 {
 	"uri": "https://tuto.ratxabox.ovh/",
@@ -43,7 +64,7 @@
 },
 {
 	"uri": "https://tuto.ratxabox.ovh/script/",
-	"title": "Intro RatXaBox",
+	"title": "Script RatXaBox",
 	"tags": [],
 	"description": "",
 	"content": " Introduction RatXaBox Une seedbox Salut à tous,\nVoici un \u0026ldquo;fork\u0026rdquo; (une copie) du célèbre script Bonobox de notre ami @Ex_Rat, par plaisir j’y ai ajouté de nouvelles fonctionnalités:\n TARDIStart SickRage multi-users CouchPotato multi-users Plex ou emby + icône dans ruTorrent (dans la partie Options) Filebot (dans la partie Options) Openvpn (dans la partie Options) eZ Server Monitor Thème QuickBox-Dark par défaut Un sous-domaine *****.ratxabox.ovh (sur demande)  "
@@ -53,7 +74,7 @@
 	"title": "Tutoriel ",
 	"tags": [],
 	"description": "",
-	"content": " Chapter 2 Some Chapter title Voici une liste de tuto compatible juste pour Ratxabox\n"
+	"content": "Voici une liste de tuto compatible juste pour Ratxabox\n"
 },
 {
 	"uri": "https://tuto.ratxabox.ovh/categories/",
